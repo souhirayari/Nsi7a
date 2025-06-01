@@ -1,0 +1,142 @@
+[
+  {
+    "productID": "CW021",
+    "productName": "Cashmere Sweater",
+    "description": "Luxurious 100% cashmere crew neck sweater",
+    "price": 149.99,
+    "quantity": 28
+  },
+  {
+    "productID": "TR022",
+    "productName": "Track Pants",
+    "description": "Comfortable fleece-lined athletic pants",
+    "price": 39.99,
+    "quantity": 65
+  },
+  {
+    "productID": "WB023",
+    "productName": "Wide-Brim Hat",
+    "description": "Straw sun hat with UV protection",
+    "price": 34.99,
+    "quantity": 40
+  },
+  {
+    "productID": "LS024",
+    "productName": "Linen Shirt",
+    "description": "Breathable linen button-down shirt",
+    "price": 54.99,
+    "quantity": 55
+  },
+  {
+    "productID": "CL025",
+    "productName": "Corduroy Leggings",
+    "description": "Stretchy corduroy pants with high waist",
+    "price": 44.99,
+    "quantity": 75
+  },
+  {
+    "productID": "RG026",
+    "productName": "Rain Jacket",
+    "description": "Lightweight waterproof packable jacket",
+    "price": 79.99,
+    "quantity": 45
+  },
+  {
+    "productID": "SP027",
+    "productName": "Silk Pajamas",
+    "description": "Luxury silk sleep set with piping",
+    "price": 89.99,
+    "quantity": 30
+  },
+  {
+    "productID": "SS028",
+    "productName": "Striped Socks",
+    "description": "Cotton blend ankle socks 3-pack",
+    "price": 12.99,
+    "quantity": 250
+  },
+  {
+    "productID": "VP029",
+    "productName": "Velvet Blazer",
+    "description": "Structured velvet evening blazer",
+    "price": 129.99,
+    "quantity": 22
+  },
+  {
+    "productID": "FC030",
+    "productName": "Fleece Cardigan",
+    "description": "Cozy zip-front fleece cardigan",
+    "price": 49.99,
+    "quantity": 60
+  },
+  {
+    "productID": "SB031",
+    "productName": "Swim Bikini",
+    "description": "Two-piece bikini with removable padding",
+    "price": 39.99,
+    "quantity": 85
+  },
+  {
+    "productID": "CP032",
+    "productName": "Cargo Pants",
+    "description": "Utility pants with multiple pockets",
+    "price": 59.99,
+    "quantity": 50
+  },
+  {
+    "productID": "TW033",
+    "productName": "Twill Jacket",
+    "description": "Structured twill blazer jacket",
+    "price": 89.99,
+    "quantity": 35
+  },
+  {
+    "productID": "BW034",
+    "productName": "Baseball Cap",
+    "description": "Adjustable cotton twill cap",
+    "price": 22.99,
+    "quantity": 150
+  },
+  {
+    "productID": "LT035",
+    "productName": "Longline Tank",
+    "description": "Extended length cotton tank top",
+    "price": 24.99,
+    "quantity": 95
+  },
+  {
+    "productID": "PC036",
+    "productName": "Puffer Coat",
+    "description": "Lightweight insulated puffer jacket",
+    "price": 119.99,
+    "quantity": 40
+  },
+  {
+    "productID": "SS037",
+    "productName": "Seamless Sports Bra",
+    "description": "Tag-free high-impact workout bra",
+    "price": 32.99,
+    "quantity": 70
+  },
+  {
+    "productID": "CW038",
+    "productName": "Chino Shorts",
+    "description": "Classic flat-front chino shorts",
+    "price": 39.99,
+    "quantity": 80
+  },
+  {
+    "productID": "KP039",
+    "productName": "Knit Poncho",
+    "description": "Oversized knit wrap poncho",
+    "price": 64.99,
+    "quantity": 35
+  },
+  {
+    "productID": "DB040",
+    "productName": "Denim Overalls",
+    "description": "Classic denim bib overalls",
+    "price": 79.99,
+    "quantity": 45
+  }
+]

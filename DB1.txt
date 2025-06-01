@@ -1,0 +1,142 @@
+[
+  {
+    "productID": "CT001",
+    "productName": "Classic White T-Shirt",
+    "description": "100% cotton crew neck t-shirt for everyday wear",
+    "price": 19.99,
+    "quantity": 150
+  },
+  {
+    "productID": "JN002",
+    "productName": "Slim Fit Jeans",
+    "description": "Stretch denim jeans with modern slim fit",
+    "price": 59.99,
+    "quantity": 80
+  },
+  {
+    "productID": "HD003",
+    "productName": "Black Hoodie",
+    "description": "Heavyweight fleece hooded sweatshirt",
+    "price": 39.99,
+    "quantity": 45
+  },
+  {
+    "productID": "FL004",
+    "productName": "Plaid Flannel Shirt",
+    "description": "Warm brushed cotton flannel shirt",
+    "price": 34.99,
+    "quantity": 60
+  },
+  {
+    "productID": "SH005",
+    "productName": "Running Shorts",
+    "description": "Lightweight quick-dry athletic shorts",
+    "price": 29.99,
+    "quantity": 120
+  },
+  {
+    "productID": "PK006",
+    "productName": "Winter Parka",
+    "description": "Waterproof insulated cold-weather coat",
+    "price": 199.99,
+    "quantity": 25
+  },
+  {
+    "productID": "BN007",
+    "productName": "Knit Beanie",
+    "description": "Warm acrylic ribbed winter hat",
+    "price": 14.99,
+    "quantity": 200
+  },
+  {
+    "productID": "DR008",
+    "productName": "Little Black Dress",
+    "description": "Knee-length cocktail dress with lace detailing",
+    "price": 89.99,
+    "quantity": 40
+  },
+  {
+    "productID": "SC009",
+    "productName": "Winter Scarf",
+    "description": "Knit wool scarf for cold weather",
+    "price": 24.99,
+    "quantity": 75
+  },
+  {
+    "productID": "SW010",
+    "productName": "Swim Trunks",
+    "description": "Quick-dry swimwear with mesh lining",
+    "price": 34.99,
+    "quantity": 90
+  },
+  {
+    "productID": "GL011",
+    "productName": "Leather Gloves",
+    "description": "Genuine leather driving gloves",
+    "price": 49.99,
+    "quantity": 55
+  },
+  {
+    "productID": "BL012",
+    "productName": "Denim Jacket",
+    "description": "Classic medium wash denim jacket",
+    "price": 79.99,
+    "quantity": 35
+  },
+  {
+    "productID": "SK013",
+    "productName": "Winter Sweater",
+    "description": "Cable-knit wool sweater",
+    "price": 64.99,
+    "quantity": 65
+  },
+  {
+    "productID": "PT014",
+    "productName": "Chino Pants",
+    "description": "Cotton twill flat-front pants",
+    "price": 54.99,
+    "quantity": 70
+  },
+  {
+    "productID": "TP015",
+    "productName": "Tank Top",
+    "description": "Breathable cotton sleeveless top",
+    "price": 16.99,
+    "quantity": 180
+  },
+  {
+    "productID": "SP016",
+    "productName": "Sports Bra",
+    "description": "High-support workout bra",
+    "price": 29.99,
+    "quantity": 110
+  },
+  {
+    "productID": "YR017",
+    "productName": "Yoga Leggings",
+    "description": "Stretchy high-waisted leggings",
+    "price": 44.99,
+    "quantity": 85
+  },
+  {
+    "productID": "SR018",
+    "productName": "Summer Dress",
+    "description": "Lightweight floral sundress",
+    "price": 49.99,
+    "quantity": 50
+  },
+  {
+    "productID": "VW019",
+    "productName": "V-Neck Sweater",
+    "description": "Lightweight merino wool sweater",
+    "price": 69.99,
+    "quantity": 40
+  },
+  {
+    "productID": "BW020",
+    "productName": "Winter Boots",
+    "description": "Waterproof insulated snow boots",
+    "price": 129.99,
+    "quantity": 30
+  }
+]
