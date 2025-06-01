@@ -1,0 +1,8289 @@
+[{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cad4"
+  },
+  "productID": "PROD001",
+  "productName": "Sports Product 1",
+  "description": "High-quality product for everyday use.",
+  "price": 54.18,
+  "quantity": 65,
+  "category": "Sports",
+  "brand": "LitLovers",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "0686d468-7fff-4043-b5b5-e70a6af43413",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-02-17T07:45:50.165Z"
+      }
+    },
+    {
+      "order_id": "b520afa8-9d85-4cad-ab37-27d3dcdd698a",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-03-03T07:45:50.165Z"
+      }
+    },
+    {
+      "order_id": "7d362d6b-7ff8-471f-be93-470862cef0af",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-28T07:45:50.165Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.165Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cad5"
+  },
+  "productID": "PROD002",
+  "productName": "Clothing Product 2",
+  "description": "High-quality product for everyday use.",
+  "price": 17.07,
+  "quantity": 24,
+  "category": "Clothing",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 2",
+      "user_id": "dcaa757c-d902-4aba-b6e7-99ee77f5d6ed",
+      "date": {
+        "$date": "2025-04-23T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 2",
+      "user_id": "dfefc278-9161-4621-bdba-d00d44b8b674",
+      "date": {
+        "$date": "2024-08-28T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "16f85d45-e371-4f36-8098-3bd64b988a8a",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-10-09T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "33496235-398a-4f86-9959-e0c9d599dc2c",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-07-31T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "a67104a1-4c06-4876-8c77-7e753bf0f657",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-05-17T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "3fd3b5a7-36de-49ad-b60b-5e6e9057b147",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-02T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 12,
+      "date": {
+        "$date": "2024-10-14T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cad6"
+  },
+  "productID": "PROD003",
+  "productName": "Clothing Product 3",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 318.08,
+  "quantity": 27,
+  "category": "Clothing",
+  "brand": "SportyGear",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "93cbfe65-b2eb-4178-a79c-7b4bcba1575c",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-01-10T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "8a4bd6d3-4476-4ed7-bd3e-95410bfc0ca4",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-03-27T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "01ffc6e8-6316-40a1-a010-2f07c4b7bc78",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-09-23T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "dd3b8c2b-f267-4e14-9d46-052e1000b48d",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-06-05T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "72d53ad3-6d22-4539-be49-f67e78f502e4",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-10T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "b462128a-16e0-4b83-823a-ccc57f6ffd5d",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-05-03T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 33,
+      "date": {
+        "$date": "2025-01-10T07:45:50.166Z"
+      }
+    },
+    {
+      "quantity_added": 30,
+      "date": {
+        "$date": "2024-09-01T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cad7"
+  },
+  "productID": "PROD004",
+  "productName": "Clothing Product 4",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 89.5,
+  "quantity": 23,
+  "category": "Clothing",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 4",
+      "user_id": "5cbd8923-3009-437a-9e2a-58f42950328d",
+      "date": {
+        "$date": "2024-06-25T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "70f9703e-63f8-49d2-b60c-2dcc519ce798",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-12-30T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cad8"
+  },
+  "productID": "PROD005",
+  "productName": "Sports Product 5",
+  "description": "High-quality product for everyday use.",
+  "price": 240.63,
+  "quantity": 78,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "f99db51e-aa90-4c5d-b639-a5daada97fe2",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-08-26T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "387e9d2a-aaae-47fa-b464-d0efc8bd675d",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-05-21T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 50,
+      "date": {
+        "$date": "2025-05-31T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cad9"
+  },
+  "productID": "PROD006",
+  "productName": "Clothing Product 6",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 153.54,
+  "quantity": 68,
+  "category": "Clothing",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 6",
+      "user_id": "fe7f981e-3e0a-44cc-9a33-d19ac98c8326",
+      "date": {
+        "$date": "2024-11-26T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 6",
+      "user_id": "e70e7374-ac8f-48e4-8fc5-add26f36d645",
+      "date": {
+        "$date": "2024-07-24T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 6",
+      "user_id": "3f5c7bd7-5f81-4313-8e7e-37bdf755e6b9",
+      "date": {
+        "$date": "2025-02-09T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "306b6428-7edf-499d-b900-cc2fc8c6d6f6",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-05-16T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "514e1db1-9878-4f2b-9f98-061e21e4683f",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-01-16T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "e2c75843-a4d3-4ad5-8e6d-22055dfdcf5f",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-04-20T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "1197fa20-08b7-4ba7-944a-c16ce7b8e4c0",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-11-13T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 31,
+      "date": {
+        "$date": "2024-12-18T07:45:50.166Z"
+      }
+    },
+    {
+      "quantity_added": 19,
+      "date": {
+        "$date": "2025-02-02T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cada"
+  },
+  "productID": "PROD007",
+  "productName": "Sports Product 7",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 458.09,
+  "quantity": 27,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 7",
+      "user_id": "065e7e52-3d0d-4404-be4f-b589fbf09456",
+      "date": {
+        "$date": "2024-11-19T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 7",
+      "user_id": "937727ac-7eef-4025-8f72-b6b37d539db9",
+      "date": {
+        "$date": "2024-06-07T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 7",
+      "user_id": "e708617e-2e73-4476-9850-9e468620b849",
+      "date": {
+        "$date": "2024-07-06T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 7",
+      "user_id": "c9d0fa67-f4cd-42ba-a6cf-54106113ed35",
+      "date": {
+        "$date": "2024-07-22T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 5 for product 7",
+      "user_id": "6c192316-b4d0-4b91-a46b-9a060aaa6400",
+      "date": {
+        "$date": "2024-08-02T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "049bbd70-ed19-4c44-8169-53fce9af69c2",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-08-31T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "56b13034-c1bb-49b2-a606-5be34126d86a",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-03-21T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "f70dfcd4-19f3-44c0-b119-851af92180e5",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-01-13T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "1bf4fc2b-8a49-4feb-9ea8-894ed0190564",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-12-02T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "06daca17-316e-41c2-9854-48bbffc56105",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-05-05T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 23,
+      "date": {
+        "$date": "2024-10-21T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cadb"
+  },
+  "productID": "PROD008",
+  "productName": "Home & Kitchen Product 8",
+  "description": "High-quality product for everyday use.",
+  "price": 149.74,
+  "quantity": 39,
+  "category": "Home & Kitchen",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 8",
+      "user_id": "d94bc77b-d26a-4ac5-ab4a-e0c912bdc3a1",
+      "date": {
+        "$date": "2024-11-02T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 8",
+      "user_id": "4a4aedff-79b2-481d-ace2-b2c4f0fcbb24",
+      "date": {
+        "$date": "2024-08-16T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 3 for product 8",
+      "user_id": "c72129f2-2d09-457c-a3cf-117632bbba75",
+      "date": {
+        "$date": "2025-05-05T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 4 for product 8",
+      "user_id": "6d2fbf03-d7aa-4c96-83a1-33b90ab4a738",
+      "date": {
+        "$date": "2024-11-02T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "b235463d-86e9-4753-b626-50fc38026500",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-10-30T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "dd191920-6769-4060-a683-f3e8d06afc52",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-09-14T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "7571b2d6-5c90-479b-8525-1fd5b44301b0",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-03-16T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "0c352bc8-955e-46d9-8897-552e22a09674",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-10-26T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "55e7b1df-5a00-47e8-8494-e1b9b1b18919",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-03-25T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "d35f356f-e6c5-4b42-adad-b70d6b72243c",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-06-23T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cadc"
+  },
+  "productID": "PROD009",
+  "productName": "Home & Kitchen Product 9",
+  "description": "Designed for performance and durability.",
+  "price": 241.48,
+  "quantity": 74,
+  "category": "Home & Kitchen",
+  "brand": "HomeEssentials",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "234800e7-951e-410f-bf6c-597487ef1619",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-09-24T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 30,
+      "date": {
+        "$date": "2025-01-10T07:45:50.166Z"
+      }
+    },
+    {
+      "quantity_added": 22,
+      "date": {
+        "$date": "2024-10-21T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cadd"
+  },
+  "productID": "PROD010",
+  "productName": "Electronics Product 10",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 179.33,
+  "quantity": 45,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 10",
+      "user_id": "d54875f6-8e4c-4145-bc2d-785f120437a5",
+      "date": {
+        "$date": "2024-07-10T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 10",
+      "user_id": "b6cdcdbc-c000-4c40-8824-990c065dc661",
+      "date": {
+        "$date": "2024-07-22T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "7e4b8473-7343-43b5-82e9-359492bb71ba",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-05-13T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "7c19a266-00af-4a97-bc08-d9ff1ee01676",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-04-30T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "135c74c9-a769-4fb5-b132-31a20d96d81c",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-02-12T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "e6126c9f-597c-4110-86e9-5434b6074824",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-07-22T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "033e2bed-64cd-4370-be66-8be9b5f2790e",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-12-13T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "d61c3ff2-11a9-4e6d-9971-f29e97b7534c",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-06-13T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "88702841-21b2-4d4b-b444-873a20f73fd6",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-06T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "37f3da0d-4444-4030-a60c-b479f14da99f",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-22T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "42bbf27b-33ce-4e68-b969-cce6bb2a8fe8",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-09-10T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 25,
+      "date": {
+        "$date": "2024-11-15T07:45:50.166Z"
+      }
+    },
+    {
+      "quantity_added": 14,
+      "date": {
+        "$date": "2024-08-09T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cade"
+  },
+  "productID": "PROD011",
+  "productName": "Sports Product 11",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 449.9,
+  "quantity": 45,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 11",
+      "user_id": "a3331ffe-48cd-4f29-b449-c3d4e9c1fa22",
+      "date": {
+        "$date": "2024-06-03T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 11",
+      "user_id": "68030f37-acc9-4037-93bd-99eb83e48349",
+      "date": {
+        "$date": "2025-02-26T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 11",
+      "user_id": "92cc2b3e-75ed-452c-a86c-01b10e6f99a9",
+      "date": {
+        "$date": "2025-03-27T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 4 for product 11",
+      "user_id": "4537e663-4186-4603-8227-7e454d362073",
+      "date": {
+        "$date": "2025-03-30T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 5 for product 11",
+      "user_id": "3d435800-5262-41c2-9808-c765b4f67488",
+      "date": {
+        "$date": "2024-06-16T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "db35c209-289d-4a50-b617-9fa0b05cd1c8",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-02-08T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "1113473c-6b4d-4749-a3c8-2be375c5db16",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-04-03T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "75267828-eded-41d8-a61a-1b81797a112c",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-30T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "a2c19381-3a5e-475e-9410-4d9c281f406c",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-12-16T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "e0d5c2bf-c10d-45d2-b715-e2a293cac71c",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-07-12T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "a75a3739-3389-4802-8f7b-e82f09d48890",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-08-21T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "85ee250a-aa20-4e6f-a186-d876f314a655",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-08-10T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "62c4a4f6-9def-4580-a1c1-b875b523fc10",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-06-25T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 34,
+      "date": {
+        "$date": "2025-05-25T07:45:50.166Z"
+      }
+    },
+    {
+      "quantity_added": 45,
+      "date": {
+        "$date": "2024-08-30T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cadf"
+  },
+  "productID": "PROD012",
+  "productName": "Sports Product 12",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 458.05,
+  "quantity": 26,
+  "category": "Sports",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 12",
+      "user_id": "6eca6850-7390-4c66-b72c-fa5a935582dc",
+      "date": {
+        "$date": "2024-10-07T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 12",
+      "user_id": "4f447602-5aaa-4b84-9b79-cf339069fde8",
+      "date": {
+        "$date": "2025-01-12T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 12",
+      "user_id": "0a6422c6-5fd7-41ca-bcfb-1ac66a0d42ca",
+      "date": {
+        "$date": "2024-09-18T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 4 for product 12",
+      "user_id": "52ed4ab6-9466-496f-9f12-006dc4d51528",
+      "date": {
+        "$date": "2024-11-08T07:45:50.166Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 5 for product 12",
+      "user_id": "52bbc71f-d7c9-4750-978c-86abcd15341f",
+      "date": {
+        "$date": "2024-11-22T07:45:50.166Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "3d367cc9-1f31-46cf-ad81-d3e692638217",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-07-19T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "570d5bf0-9fe3-4d5d-85aa-fd2e5d1e24b8",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-08-29T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "17b05cd2-fbc4-477d-b9d6-cef5054d582f",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-11-23T07:45:50.166Z"
+      }
+    },
+    {
+      "order_id": "eccd20ca-4746-41e3-9af3-4c9a6265d2f6",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-07-14T07:45:50.166Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 19,
+      "date": {
+        "$date": "2024-11-19T07:45:50.166Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.166Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae0"
+  },
+  "productID": "PROD013",
+  "productName": "Clothing Product 13",
+  "description": "Stylish and functional for all occasions.",
+  "price": 456.04,
+  "quantity": 32,
+  "category": "Clothing",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 13",
+      "user_id": "3375dc60-d2ed-4903-9c42-d9120bbdbf6f",
+      "date": {
+        "$date": "2025-03-17T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 13",
+      "user_id": "eff9fe53-7057-47ba-928d-1f2fbae26fb7",
+      "date": {
+        "$date": "2025-04-21T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 13",
+      "user_id": "dd9095ce-ee2d-4e4d-8a0c-b5d183f47da0",
+      "date": {
+        "$date": "2025-05-31T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "713b61a0-2b55-40f0-ac4f-d33304ab8fd4",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-10-02T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "4a0b43a8-2a7c-4ec3-bc16-67dabc14d246",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-06-02T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 28,
+      "date": {
+        "$date": "2024-11-10T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 29,
+      "date": {
+        "$date": "2024-08-12T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae1"
+  },
+  "productID": "PROD014",
+  "productName": "Electronics Product 14",
+  "description": "Stylish and functional for all occasions.",
+  "price": 246.74,
+  "quantity": 46,
+  "category": "Electronics",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 14",
+      "user_id": "1d265f25-d485-4428-b6d1-944b858ff38d",
+      "date": {
+        "$date": "2024-06-04T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 14",
+      "user_id": "57a77e95-f7ee-48a4-8723-bb82afa46212",
+      "date": {
+        "$date": "2024-11-08T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "9ef8afa3-0d09-490b-a936-0486b3e97f12",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-08-06T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "4aaa74a7-617f-4a84-bfbd-2a6dc157aa94",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-05-31T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "1f3ba60b-6808-46e1-8bf7-51897a6275e3",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-11T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "dc9131de-1524-4712-8df6-8b11dfef5afa",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-05-25T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "7fe115cf-a585-43a4-a4d0-d0e34da440b0",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-02-12T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "cbad0024-77ca-484f-9ea4-dc6ef614d950",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-03-01T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "25922ab9-2dcc-4f46-a922-c50d29165be4",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-12-27T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "f01fe16a-f928-4e04-b596-4a8d29b1ed31",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-06-04T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2024-07-06T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae2"
+  },
+  "productID": "PROD015",
+  "productName": "Books Product 15",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 428.75,
+  "quantity": 13,
+  "category": "Books",
+  "brand": "FashionHub",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "67060a96-35f1-4ce6-9d4d-02f9b2f827c6",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-04-22T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "b79057c4-b7f5-465e-9e87-706a7c1e7323",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-01-06T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "aaa63a6c-3df3-44da-9a39-305c74877e9b",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-11-13T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "b605328e-7895-4188-9915-b275f9b4f493",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-05-02T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "236914f8-e914-497a-9daa-484d925ccefe",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-05-31T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "f6dc715a-7bbd-4e46-893a-2e98781417d4",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-03-29T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "bbaf7100-f647-4196-acdd-3041bd3d4283",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-07-14T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "9f210e18-fcfc-420f-a8f3-bfa74aedf800",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-07-14T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "d3b0781e-b62a-4f1c-99b1-c60dff83c8db",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-01T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 43,
+      "date": {
+        "$date": "2024-09-11T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 50,
+      "date": {
+        "$date": "2025-02-04T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae3"
+  },
+  "productID": "PROD016",
+  "productName": "Clothing Product 16",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 162.78,
+  "quantity": 87,
+  "category": "Clothing",
+  "brand": "HomeEssentials",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "40cc5f20-1685-4782-be95-b9cc0e9bc962",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-11-10T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "01b89b33-cddb-4072-b249-dcdc3d738099",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-23T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "3b5faec7-96c0-4dfe-99f6-dd5cee37d2f2",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-08-08T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "537e0ec9-efb0-4a78-90ce-d69ed9ba5d66",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-09-25T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "40728b65-f93d-4845-95fa-1de95a09e44e",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-12-08T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "79535894-d296-4fdc-a372-3b7debd65daa",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-05-24T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "5a30cff8-0fdd-46e3-848a-1c72e3bdaba9",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-17T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "930625b2-66e0-4ac3-8531-003f37a23ffc",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-09-29T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "aab0f627-a637-49af-b7db-4fc609dc7706",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-06-05T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "db482059-2869-4b0d-abb1-2c6e99901ace",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-07-10T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 11,
+      "date": {
+        "$date": "2024-06-01T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 16,
+      "date": {
+        "$date": "2024-10-13T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 15,
+      "date": {
+        "$date": "2025-05-13T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae4"
+  },
+  "productID": "PROD017",
+  "productName": "Electronics Product 17",
+  "description": "Stylish and functional for all occasions.",
+  "price": 135,
+  "quantity": 68,
+  "category": "Electronics",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 17",
+      "user_id": "8c7b39f3-ad23-4bdd-896f-fe4bbaa3b5b4",
+      "date": {
+        "$date": "2024-08-17T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 17",
+      "user_id": "ace6b92c-1445-440c-8c19-d0b88174ed15",
+      "date": {
+        "$date": "2025-02-03T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 17",
+      "user_id": "79acfe89-beb6-42f9-b158-ddd3cc8b0682",
+      "date": {
+        "$date": "2025-04-13T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 4 for product 17",
+      "user_id": "9b050ed2-d18d-45aa-aafe-983fe5fc5c2f",
+      "date": {
+        "$date": "2025-01-17T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 5 for product 17",
+      "user_id": "006ff684-9e88-4cf4-b73e-97bf66fef290",
+      "date": {
+        "$date": "2024-08-22T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "027bf983-a660-49e0-965a-264ad25c612f",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-01-10T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "4aea4fc2-6f35-47fe-9f2d-4e3ac5e694cf",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-07-18T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "cf1ea6a1-177c-40ef-93e9-b25ab04258cf",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-06-06T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 29,
+      "date": {
+        "$date": "2024-11-04T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 29,
+      "date": {
+        "$date": "2024-10-26T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae5"
+  },
+  "productID": "PROD018",
+  "productName": "Sports Product 18",
+  "description": "High-quality product for everyday use.",
+  "price": 306.09,
+  "quantity": 57,
+  "category": "Sports",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 18",
+      "user_id": "3431b75f-cb78-43f2-9fc5-a994ad1b98ba",
+      "date": {
+        "$date": "2024-07-01T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 18",
+      "user_id": "4edcdd4a-dc65-4ffb-9eb9-93d1fd4281ae",
+      "date": {
+        "$date": "2024-08-13T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 18",
+      "user_id": "e36f4337-52e0-4128-acc0-e7a8bc323e53",
+      "date": {
+        "$date": "2024-08-20T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 18",
+      "user_id": "0ab4647f-0ce6-433b-80ea-4b0be4caf32d",
+      "date": {
+        "$date": "2024-12-31T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 5 for product 18",
+      "user_id": "ef3d93dd-965c-4f9e-8c5a-6fb048e3ba38",
+      "date": {
+        "$date": "2024-11-26T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "f16ee9b2-72c7-4d73-9299-a3d5210a24c4",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-04-04T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "86035c68-2def-4613-b3eb-d56d316ff97f",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-07-10T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "6d9fd318-0c72-4003-9399-c1ea5564e8e1",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-04-19T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "37151f02-e357-44f4-a9f3-c65fade4f417",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-04-03T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "3d38c69c-2e04-4261-a815-ee5fd175add5",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-12-07T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 49,
+      "date": {
+        "$date": "2025-05-23T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 30,
+      "date": {
+        "$date": "2024-09-21T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 37,
+      "date": {
+        "$date": "2024-12-09T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae6"
+  },
+  "productID": "PROD019",
+  "productName": "Sports Product 19",
+  "description": "High-quality product for everyday use.",
+  "price": 66.82,
+  "quantity": 91,
+  "category": "Sports",
+  "brand": "TechTrend",
+  "ratings": [],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 28,
+      "date": {
+        "$date": "2025-02-10T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae7"
+  },
+  "productID": "PROD020",
+  "productName": "Books Product 20",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 15.05,
+  "quantity": 41,
+  "category": "Books",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 20",
+      "user_id": "e7432e3f-44a3-4e53-a475-cfdc513851f6",
+      "date": {
+        "$date": "2024-06-24T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 20",
+      "user_id": "03741053-8a7a-4223-a9a9-dfc189cc0474",
+      "date": {
+        "$date": "2025-03-10T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "356a80d9-55eb-43b4-a6cb-9830bf02035e",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-04-04T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "284cda9b-7941-4f78-ae1f-3d288c431988",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-04-27T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "00692d52-f121-4e21-b14e-23f0b24fe5ec",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-05-02T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "e212c9f4-b090-4ede-b0b3-15e671ac8ad6",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-06-20T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "70bbcbe5-86e8-4203-a484-e210e90b716a",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-04-09T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "c7c00e3c-d8e8-40d3-944e-968e00c45a0c",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-04-03T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae8"
+  },
+  "productID": "PROD021",
+  "productName": "Clothing Product 21",
+  "description": "Stylish and functional for all occasions.",
+  "price": 221.7,
+  "quantity": 54,
+  "category": "Clothing",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 21",
+      "user_id": "84f2cdf5-f750-480c-b8bc-0ace9ded57fb",
+      "date": {
+        "$date": "2025-02-08T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 21",
+      "user_id": "dc9b35aa-c483-4606-a37c-2fcb112b8b78",
+      "date": {
+        "$date": "2025-02-03T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 21",
+      "user_id": "352eedf7-c9de-4aa1-8e2b-3af48f49fecc",
+      "date": {
+        "$date": "2024-09-13T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 21",
+      "user_id": "b40dfe41-d171-46f8-b981-c0c9b67f6bc5",
+      "date": {
+        "$date": "2025-05-23T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "a08ff127-e3d3-4070-a9c7-6f55a0e60412",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-04-16T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "7fb6e6ca-bb25-41a1-b06a-2c410ad0aa19",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-12-27T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 48,
+      "date": {
+        "$date": "2025-05-02T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cae9"
+  },
+  "productID": "PROD022",
+  "productName": "Electronics Product 22",
+  "description": "Designed for performance and durability.",
+  "price": 131.82,
+  "quantity": 82,
+  "category": "Electronics",
+  "brand": "TechTrend",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "da4d084b-9782-4cae-8b43-e70afdc00b82",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-10-11T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "252ce469-458d-4b1b-8973-fa6383cff95a",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-12-20T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "e79ad2f2-50ee-4414-a102-ad13683a62ac",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-10-01T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "561889c2-8efb-4f47-8bff-c3ad354e46fa",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-05-19T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "26da9d62-a4cc-4f10-b5ea-8ff61ce28da0",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-04-01T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "83dd4013-3fe1-4bf2-acb0-754d01d462aa",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-01-20T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "16d475cd-1ab0-46ea-9ea1-3bb75037ee13",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-11-17T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "eb2cca08-c4eb-4ebb-8831-095ff0b967d5",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-20T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "2e74dca1-61db-4800-9082-52a24db6b009",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-05-29T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 20,
+      "date": {
+        "$date": "2025-02-18T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2024-10-04T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caea"
+  },
+  "productID": "PROD023",
+  "productName": "Clothing Product 23",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 385.33,
+  "quantity": 19,
+  "category": "Clothing",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 23",
+      "user_id": "ca35bcd6-eba3-45fd-b867-2cd748e59c37",
+      "date": {
+        "$date": "2025-05-29T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 23",
+      "user_id": "2ae78c3e-8cc4-42b1-96de-e89c4877236a",
+      "date": {
+        "$date": "2024-07-03T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 23",
+      "user_id": "8dfb4704-bb63-4f3c-9f09-58c3bdae3a76",
+      "date": {
+        "$date": "2024-08-14T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 4 for product 23",
+      "user_id": "100660e8-2441-4429-a01a-9dcbae8b582f",
+      "date": {
+        "$date": "2024-07-09T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "9c43dabd-cff6-410a-90e9-8f70a5e85833",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-08-25T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "46e67475-c93e-4c3e-af49-dd412022d78c",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-11-12T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "caf33f97-4522-4903-a885-f134821733e3",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-22T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "65f6a83d-ed44-4f77-989f-a20f102366d7",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-01-31T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "c7f5a188-4e68-4e5e-9ce3-e3822d0a4f3e",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-01-15T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "2c06e130-b008-41a5-ba8f-11e319ca9d7d",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-02-16T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "72fe7cfb-2f6e-42a4-9020-b9d311870a95",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-05-09T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "2b16a134-5be5-4a6a-8f67-2bcdf3aaefdd",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-08-27T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 26,
+      "date": {
+        "$date": "2025-03-31T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2025-01-12T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caeb"
+  },
+  "productID": "PROD024",
+  "productName": "Sports Product 24",
+  "description": "Stylish and functional for all occasions.",
+  "price": 98,
+  "quantity": 10,
+  "category": "Sports",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 24",
+      "user_id": "b4212bb0-cbc2-43ba-a886-1ce39c99daaf",
+      "date": {
+        "$date": "2025-02-08T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "472a03b7-8306-4e2e-afd4-198df7f138a9",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-27T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "ade19a9a-702a-47c7-b769-3abc4c47a11b",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-03-11T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "5a467bc3-88b1-4df0-8fdd-21e8614263a4",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-08-09T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "84ee094c-f338-4b25-80b7-dad160d7f264",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-10-20T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "85b69699-e9da-4cf8-a809-e6d1732a6172",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-01-17T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "729ec6ad-9908-481a-93aa-a78b6d6367bd",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-04T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "0becfa60-21a6-4051-ba2a-50d56dad89a6",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-12-23T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "db62c371-6fc4-4ce0-b43b-41d00a1ec70b",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-10-29T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "1ac42bbd-f153-4e7e-a864-61645de48720",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-09-19T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 27,
+      "date": {
+        "$date": "2025-05-09T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 45,
+      "date": {
+        "$date": "2025-02-01T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 21,
+      "date": {
+        "$date": "2024-10-09T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caec"
+  },
+  "productID": "PROD025",
+  "productName": "Sports Product 25",
+  "description": "High-quality product for everyday use.",
+  "price": 483.65,
+  "quantity": 100,
+  "category": "Sports",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 25",
+      "user_id": "b7522bde-2d0d-4239-bb21-e9220fe6d39f",
+      "date": {
+        "$date": "2025-01-29T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "c1b3ad13-e27d-43e0-92de-dbe7f9be18d8",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-05T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "986ef62e-4b6f-49ae-9a32-f76b15c7bbfa",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-12-29T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "7be4ac01-f3ad-48df-8ae3-e08dcf4522bd",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-15T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "dfe0b36a-11f4-4174-94f5-ec7397dbd646",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-05-20T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "a053f90f-1960-4caf-9560-bbe75dd46581",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-04T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "24e45c6d-ef98-4d9a-b9a4-6c8b01062198",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-07-12T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 18,
+      "date": {
+        "$date": "2025-05-05T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 35,
+      "date": {
+        "$date": "2024-11-16T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 18,
+      "date": {
+        "$date": "2025-02-05T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caed"
+  },
+  "productID": "PROD026",
+  "productName": "Sports Product 26",
+  "description": "Designed for performance and durability.",
+  "price": 417.49,
+  "quantity": 91,
+  "category": "Sports",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 26",
+      "user_id": "702b5931-12ca-4706-a9b8-ff680689dd46",
+      "date": {
+        "$date": "2024-11-19T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 26",
+      "user_id": "d47536ec-738b-4cf2-97bd-266249b33d83",
+      "date": {
+        "$date": "2025-04-17T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 45,
+      "date": {
+        "$date": "2024-09-01T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 19,
+      "date": {
+        "$date": "2025-04-15T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 42,
+      "date": {
+        "$date": "2024-07-07T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caee"
+  },
+  "productID": "PROD027",
+  "productName": "Books Product 27",
+  "description": "Designed for performance and durability.",
+  "price": 473.3,
+  "quantity": 82,
+  "category": "Books",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 27",
+      "user_id": "b8b47a2f-32e1-4a53-b067-356359339a82",
+      "date": {
+        "$date": "2024-08-23T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 27",
+      "user_id": "7489bd35-813f-4eb7-9312-70d91265af2e",
+      "date": {
+        "$date": "2025-04-18T07:45:50.167Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 27",
+      "user_id": "833ac67d-d9fb-44b0-b3ea-38dd459062b6",
+      "date": {
+        "$date": "2025-04-28T07:45:50.167Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "0f1e6625-01cb-4760-8725-80cee04431b7",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-01-18T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "1023c970-f3de-479f-9035-e22199d992dc",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-28T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caef"
+  },
+  "productID": "PROD028",
+  "productName": "Home & Kitchen Product 28",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 445.04,
+  "quantity": 66,
+  "category": "Home & Kitchen",
+  "brand": "HomeEssentials",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "8efa877b-ee91-4c71-a792-d03699daf919",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-02-10T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "9d515669-4449-4a81-8591-38c5962167eb",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-11-18T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "09ad9e76-6ea5-414d-8901-68ceb8e7f983",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-07-14T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "f15a4bf1-994c-49de-8b4f-5ac88a01336d",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-12-15T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "9e27c748-38f3-481f-98a2-461b767fb097",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-01-05T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "e1c10fbb-688e-4586-9c19-6fe90f15230a",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-09-24T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "253c390a-2b2f-486f-98fe-9b6b99eda64a",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-19T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "1b86b1f7-7e0e-4a06-8e37-15b3dec05c83",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-09-22T07:45:50.167Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 15,
+      "date": {
+        "$date": "2024-06-08T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 35,
+      "date": {
+        "$date": "2024-06-03T07:45:50.167Z"
+      }
+    },
+    {
+      "quantity_added": 27,
+      "date": {
+        "$date": "2025-02-13T07:45:50.167Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf0"
+  },
+  "productID": "PROD029",
+  "productName": "Sports Product 29",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 188.05,
+  "quantity": 92,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "30904af9-ab0f-4538-a437-4d66e91d07b1",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-07T07:45:50.167Z"
+      }
+    },
+    {
+      "order_id": "5453d7bb-df61-43fb-9889-c9c3e848114d",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-07-25T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "269ef74d-65f5-4379-8a11-ceab3dc90a50",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-01-14T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "3f0a7256-501c-4e15-b726-d01e9d289ea1",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-07T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 20,
+      "date": {
+        "$date": "2024-08-10T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 11,
+      "date": {
+        "$date": "2024-12-15T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf1"
+  },
+  "productID": "PROD030",
+  "productName": "Home & Kitchen Product 30",
+  "description": "Designed for performance and durability.",
+  "price": 117.57,
+  "quantity": 48,
+  "category": "Home & Kitchen",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 30",
+      "user_id": "be112f4b-4d5b-4d59-bbeb-d1d49b4b5244",
+      "date": {
+        "$date": "2024-06-25T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 30",
+      "user_id": "56a5a06c-082f-4f4b-8634-e9887c31b85b",
+      "date": {
+        "$date": "2025-03-18T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 30",
+      "user_id": "5c9d2f55-b421-4f97-bc47-14b168d74198",
+      "date": {
+        "$date": "2024-07-11T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "bb1f99fe-fe36-4ec5-a7c1-47bb55a2a741",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-03-01T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "b2efe73e-908f-4498-95a6-5bf5827237c3",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-15T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "2daca2d7-f3fd-4305-992f-5416787aa5fa",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-04-25T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "e36582d8-b482-4da4-a2f2-4b5e3c0433f8",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-11-15T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "950b6652-391f-4282-805c-7ec73b7fbffe",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-12-20T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "b4735961-b8a7-4c4b-abed-3726e8c178a1",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-05-01T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "c63952c9-73a1-41a9-b64b-013528fc73f5",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-09T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 25,
+      "date": {
+        "$date": "2024-09-05T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-09-09T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 39,
+      "date": {
+        "$date": "2024-11-28T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf2"
+  },
+  "productID": "PROD031",
+  "productName": "Sports Product 31",
+  "description": "Designed for performance and durability.",
+  "price": 209.26,
+  "quantity": 25,
+  "category": "Sports",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 31",
+      "user_id": "9ba310ce-89b0-4e34-84c5-bda73262947b",
+      "date": {
+        "$date": "2024-08-01T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 31",
+      "user_id": "aa64a787-bc17-4f46-a70e-ec59abf9af11",
+      "date": {
+        "$date": "2024-08-02T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 31",
+      "user_id": "b73a8fe4-c6c4-4526-b3cf-2a9b91955ff6",
+      "date": {
+        "$date": "2024-09-09T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "46ca2b67-ac1a-4179-b757-2bf3957d53fb",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-20T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "bfd365b4-6b19-49c3-b40b-32e4fa9b0eb0",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-04-16T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "d71ef643-fa14-4b54-9273-7e0749481edb",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-07-07T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "de2a6220-3ccb-427e-a232-4d730fad645f",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-11-15T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 43,
+      "date": {
+        "$date": "2024-08-22T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2024-09-05T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-07-06T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf3"
+  },
+  "productID": "PROD032",
+  "productName": "Electronics Product 32",
+  "description": "Designed for performance and durability.",
+  "price": 184.66,
+  "quantity": 77,
+  "category": "Electronics",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 32",
+      "user_id": "ffcf881b-017c-4b5d-b21c-c2c654347259",
+      "date": {
+        "$date": "2025-01-23T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 32",
+      "user_id": "af08e679-02a6-4639-a821-b2636d2fb858",
+      "date": {
+        "$date": "2024-12-21T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 32",
+      "user_id": "c1e901b2-6f20-4cda-b726-b92b03833051",
+      "date": {
+        "$date": "2024-12-28T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 4 for product 32",
+      "user_id": "e0d4fa2f-7ef5-4a37-9159-4792a9746a0f",
+      "date": {
+        "$date": "2025-01-08T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 5 for product 32",
+      "user_id": "4805e6a8-dd9e-48e7-800e-f4668d3944d8",
+      "date": {
+        "$date": "2025-05-30T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "e6227065-f39a-44a2-9f60-b1e02d3b28f8",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-06-08T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "66df6286-b238-4279-a5f1-634269905aa3",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-05-22T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 44,
+      "date": {
+        "$date": "2024-12-04T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 21,
+      "date": {
+        "$date": "2025-05-31T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 16,
+      "date": {
+        "$date": "2025-04-17T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf4"
+  },
+  "productID": "PROD033",
+  "productName": "Sports Product 33",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 61.84,
+  "quantity": 48,
+  "category": "Sports",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 33",
+      "user_id": "94104127-f43b-40e6-a24b-9e03d56d0882",
+      "date": {
+        "$date": "2024-10-22T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 33",
+      "user_id": "2fc0a30d-eb1c-4db0-bf73-3e52c2be0df3",
+      "date": {
+        "$date": "2025-03-13T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 33",
+      "user_id": "5dabf92f-813d-4b78-9a66-c8af1a0dc6dd",
+      "date": {
+        "$date": "2025-03-29T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 4 for product 33",
+      "user_id": "32f2581a-da7f-4e06-a595-7deb36c3773b",
+      "date": {
+        "$date": "2025-04-25T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 5 for product 33",
+      "user_id": "67a12f09-df43-4cd3-abd1-f34e6fde5a70",
+      "date": {
+        "$date": "2024-07-09T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "c1943ad5-9885-49af-8217-2501937fcb5e",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-07-27T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "e3e08fb2-ebfc-4bbe-9a19-913c7ba9e432",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-06-29T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 34,
+      "date": {
+        "$date": "2025-01-09T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 50,
+      "date": {
+        "$date": "2024-11-18T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf5"
+  },
+  "productID": "PROD034",
+  "productName": "Sports Product 34",
+  "description": "Designed for performance and durability.",
+  "price": 253.67,
+  "quantity": 20,
+  "category": "Sports",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 34",
+      "user_id": "c8b0bebc-1b02-4049-85de-3bc085fde572",
+      "date": {
+        "$date": "2025-04-19T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 34",
+      "user_id": "153b68ad-ea0d-4c55-a361-a91e39852b1b",
+      "date": {
+        "$date": "2025-02-18T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 34",
+      "user_id": "a052c789-05f0-487f-930c-a0806c5c77c0",
+      "date": {
+        "$date": "2024-09-20T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 4 for product 34",
+      "user_id": "c81bd7d2-c3f4-4e89-9db1-c125c81cadac",
+      "date": {
+        "$date": "2025-01-06T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 5 for product 34",
+      "user_id": "75a96f21-ca3b-44cb-85a3-5890d5fc9e4c",
+      "date": {
+        "$date": "2024-06-19T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "629e7a8b-efe1-4fc6-902b-3ca2dc69af31",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-02-11T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "12c30417-3baa-4b9b-8f32-433f36abc667",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-11T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf6"
+  },
+  "productID": "PROD035",
+  "productName": "Sports Product 35",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 10.53,
+  "quantity": 96,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "f9bd8367-9985-4f97-b6e2-71b4416f46bc",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-06-07T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "a275db99-2608-4da9-bdcc-1b308f682fa8",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-09-09T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "e62f1be3-03cf-4d32-a6bd-bec48909e48b",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-07-29T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "ce678209-7566-4836-b7fc-feb927365a7d",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-07-11T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "88d1f90c-ca3b-424a-acfe-df40ed0ac0d5",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-03-27T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "9d5d8bab-f744-426c-9e0c-07461999d60f",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-09-22T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "6bad9c5f-7b97-455a-b682-fe233450ebda",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-08-07T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "728580b4-c0eb-437b-9bfe-13a22f657595",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-05-12T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "4a1b1519-f5d3-483d-ac7f-c10ffa2579c2",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-08-19T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "bb3b8996-857c-4ffa-8d32-379091183bde",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-03-30T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf7"
+  },
+  "productID": "PROD036",
+  "productName": "Home & Kitchen Product 36",
+  "description": "High-quality product for everyday use.",
+  "price": 261.47,
+  "quantity": 67,
+  "category": "Home & Kitchen",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 36",
+      "user_id": "5f2ad613-6bde-4af5-8b19-763dbff9db15",
+      "date": {
+        "$date": "2024-06-04T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 36",
+      "user_id": "39767b19-5db9-437a-9bfe-52c80a2a3161",
+      "date": {
+        "$date": "2024-12-27T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 36",
+      "user_id": "19a08aa8-bede-497f-9203-e2b6d8619ab0",
+      "date": {
+        "$date": "2025-04-17T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "b3813b6b-2040-445e-b44f-708c180d13da",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-08-11T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "fa5c907a-0a19-4c69-8bf5-d8b9b070bbad",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-05-02T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "d84810fb-aa30-47bb-8042-04995e575455",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-03-08T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "2b37c785-fbfe-41c0-884c-911e2bccbdb0",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-08-03T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "7e8336cf-697a-41fd-bdc1-3b01307c2966",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-28T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "44db51d4-ca46-4640-94b9-ebf2e6e7da39",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-07-01T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "2519bdee-dfc4-48a6-a3eb-7cd3dfa696b2",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-10-19T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "ffbad632-fb7e-443c-9f42-be79ec50d0a8",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-11-18T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "17dad44a-baaa-482b-aad9-c246883299a1",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-03-18T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 43,
+      "date": {
+        "$date": "2024-10-06T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 24,
+      "date": {
+        "$date": "2025-04-20T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 26,
+      "date": {
+        "$date": "2025-04-14T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf8"
+  },
+  "productID": "PROD037",
+  "productName": "Sports Product 37",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 184.59,
+  "quantity": 50,
+  "category": "Sports",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 37",
+      "user_id": "f9311d85-3c26-4334-a6f5-f373e967170f",
+      "date": {
+        "$date": "2025-01-03T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 37",
+      "user_id": "8ad0f5ba-e559-4f91-a5a9-24d546aec3c3",
+      "date": {
+        "$date": "2025-03-17T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "a9e03146-0e41-47b4-8c1e-35356c6d39d7",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-10-30T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "09e3f6a7-b743-483b-a605-ca18ab34f7a5",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-12-30T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "89e96dcf-cc9f-44c3-b501-00b632f07f16",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-06-07T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 30,
+      "date": {
+        "$date": "2024-07-07T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 21,
+      "date": {
+        "$date": "2025-01-06T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caf9"
+  },
+  "productID": "PROD038",
+  "productName": "Books Product 38",
+  "description": "High-quality product for everyday use.",
+  "price": 319.16,
+  "quantity": 69,
+  "category": "Books",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 38",
+      "user_id": "d8ac58f7-e897-4cf3-83ea-d49119e8879f",
+      "date": {
+        "$date": "2024-06-25T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 38",
+      "user_id": "8614b8af-7f09-4683-bb6e-cbfefa70d1cf",
+      "date": {
+        "$date": "2024-07-21T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 38",
+      "user_id": "f68143f0-d82d-4a0d-b5c3-1d0f58b13529",
+      "date": {
+        "$date": "2024-10-15T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 38",
+      "user_id": "8b99b614-1aae-4b9a-aea1-0f6fe3f0266c",
+      "date": {
+        "$date": "2024-09-12T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cafa"
+  },
+  "productID": "PROD039",
+  "productName": "Books Product 39",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 98.82,
+  "quantity": 92,
+  "category": "Books",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 39",
+      "user_id": "a2ab6e1f-1c93-4310-8f8d-a3e514fef89f",
+      "date": {
+        "$date": "2025-05-27T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 39",
+      "user_id": "8d23acd7-6d5d-40c6-b3d9-dae0f21c0501",
+      "date": {
+        "$date": "2024-06-21T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 39",
+      "user_id": "784be1e0-b8ea-4d6a-a734-b1f022f7457e",
+      "date": {
+        "$date": "2025-02-01T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "f13604aa-3c59-40a9-866f-f6cbffd2f478",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-07-01T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "63ea37b3-25b0-4949-8b73-8af9864b2b6e",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-02-09T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "af54317a-0812-458a-a5f3-6bd231f77d1c",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-06-17T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "4e12aa5d-ab83-4139-a9c9-c02bfed242d2",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-04-21T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "40380244-6f7a-49ef-9673-2d38fa4fa63b",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-06-30T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "a7f14f91-0640-4af8-adcc-7039ee5a1c13",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-01-26T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "e7a8d625-f35c-4672-85e0-02b6f92003aa",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-08-25T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "50483cf8-4fce-4dd4-9695-9186083ff9fe",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-02-06T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "642fcb28-dfad-422c-b526-b2e0ba1831a6",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-08-31T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cafb"
+  },
+  "productID": "PROD040",
+  "productName": "Home & Kitchen Product 40",
+  "description": "Designed for performance and durability.",
+  "price": 153.71,
+  "quantity": 45,
+  "category": "Home & Kitchen",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 40",
+      "user_id": "bd4f935d-85ef-4fe0-9414-1f7ab04cd664",
+      "date": {
+        "$date": "2024-12-04T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "687e2fba-4c5b-4b74-85e3-81ecbd01852a",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-10-07T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "87ff10b3-0d92-4a67-afb5-438ef7c2edc1",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-29T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 26,
+      "date": {
+        "$date": "2024-12-09T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cafc"
+  },
+  "productID": "PROD041",
+  "productName": "Clothing Product 41",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 489.14,
+  "quantity": 48,
+  "category": "Clothing",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 41",
+      "user_id": "9a2891f7-ee57-4648-a965-6eb5f1979251",
+      "date": {
+        "$date": "2024-07-05T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 41",
+      "user_id": "f3f91c7b-e062-41c2-ae53-3fb9bab79f14",
+      "date": {
+        "$date": "2024-08-11T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 41",
+      "user_id": "00c1d702-7e05-4144-ad03-b50b9198373b",
+      "date": {
+        "$date": "2024-06-04T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "dda671e1-67c9-41fc-b3de-084a314b59be",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-01-08T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "37023e18-48c2-4fc3-8ef0-8f5a134d8fdf",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-26T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "07e89bc7-722a-43de-93f8-1d00fa956d2b",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-12-01T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "7bfe762d-c16e-4452-a3c5-d956e0c47f47",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-05-26T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 50,
+      "date": {
+        "$date": "2025-05-01T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 14,
+      "date": {
+        "$date": "2025-04-16T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 13,
+      "date": {
+        "$date": "2024-12-24T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cafd"
+  },
+  "productID": "PROD042",
+  "productName": "Books Product 42",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 356.58,
+  "quantity": 74,
+  "category": "Books",
+  "brand": "SportyGear",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "7819fbff-e3c4-4f10-a865-146f0d5b7b83",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-12-10T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "359efb1e-d10e-4abc-8f22-d22ecaa958bb",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-05-13T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "b0d66384-a5f0-454f-aa0f-5df39721b878",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-04-29T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "6b119435-75de-4f08-9c62-3312c54996c5",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-12-28T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "484ca800-c71e-4237-b592-0e09b9f86dff",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-06-15T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 43,
+      "date": {
+        "$date": "2025-05-05T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 44,
+      "date": {
+        "$date": "2024-06-08T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2024-06-08T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cafe"
+  },
+  "productID": "PROD043",
+  "productName": "Sports Product 43",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 499.47,
+  "quantity": 55,
+  "category": "Sports",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 43",
+      "user_id": "79d2ca13-4ff2-45b2-99c3-b1e8d8dd5162",
+      "date": {
+        "$date": "2024-09-17T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 43",
+      "user_id": "2f2aa306-adb4-422f-adf4-b9a67cd76272",
+      "date": {
+        "$date": "2024-12-02T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "f7ff08d1-f84f-460c-b5f2-bb02ba47bb1c",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-19T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "05b8e4a9-e9f8-4dfc-a5ec-376697818c09",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-06-30T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "d8ebd55e-c91c-491e-9fcf-fab116f7b2e4",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-09-15T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "fab3d448-c1c2-4c42-9e17-d777b393a09e",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-12-27T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "6cabbe6f-7490-4e83-9bcb-9bcaf9764731",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-04-13T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "92163755-a862-4e94-bc28-06c089e0557f",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-11-26T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "5275f473-e25c-4641-a3da-6248d28a6bcd",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-12-11T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2024-10-08T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 38,
+      "date": {
+        "$date": "2025-01-14T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 41,
+      "date": {
+        "$date": "2025-01-30T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2caff"
+  },
+  "productID": "PROD044",
+  "productName": "Sports Product 44",
+  "description": "Stylish and functional for all occasions.",
+  "price": 67.3,
+  "quantity": 48,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 44",
+      "user_id": "31ad23b1-3699-4920-af3a-fc027205de8f",
+      "date": {
+        "$date": "2024-10-28T07:45:50.168Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb00"
+  },
+  "productID": "PROD045",
+  "productName": "Electronics Product 45",
+  "description": "Stylish and functional for all occasions.",
+  "price": 427.49,
+  "quantity": 12,
+  "category": "Electronics",
+  "brand": "HomeEssentials",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "51be748d-1f0f-49b0-993f-1b9d1cac45d1",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-08-04T07:45:50.168Z"
+      }
+    },
+    {
+      "order_id": "1a33a49c-2dff-414d-8373-5c62475c16b8",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-08-16T07:45:50.168Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 38,
+      "date": {
+        "$date": "2024-06-06T07:45:50.168Z"
+      }
+    },
+    {
+      "quantity_added": 11,
+      "date": {
+        "$date": "2024-12-02T07:45:50.168Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb01"
+  },
+  "productID": "PROD046",
+  "productName": "Sports Product 46",
+  "description": "Designed for performance and durability.",
+  "price": 90.89,
+  "quantity": 63,
+  "category": "Sports",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 46",
+      "user_id": "42467bc6-509e-458c-a208-ff18180e6962",
+      "date": {
+        "$date": "2024-07-02T07:45:50.168Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 46",
+      "user_id": "99b90b54-6026-4371-b362-f99a76ee7b51",
+      "date": {
+        "$date": "2025-04-25T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "cfb6c474-8d3c-49fd-b0f2-27d12faaa92f",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-01-25T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 10,
+      "date": {
+        "$date": "2024-08-25T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 19,
+      "date": {
+        "$date": "2025-02-06T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb02"
+  },
+  "productID": "PROD047",
+  "productName": "Home & Kitchen Product 47",
+  "description": "High-quality product for everyday use.",
+  "price": 99.09,
+  "quantity": 68,
+  "category": "Home & Kitchen",
+  "brand": "SportyGear",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "d1e9e91b-19cc-4971-980f-1e9c471f0d02",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-26T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "38b7fc96-e026-4e8a-921f-426b6ecea072",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-09-24T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 18,
+      "date": {
+        "$date": "2024-07-04T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb03"
+  },
+  "productID": "PROD048",
+  "productName": "Clothing Product 48",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 314.15,
+  "quantity": 53,
+  "category": "Clothing",
+  "brand": "HomeEssentials",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "c337a8fb-ae09-4a6d-9cc6-a92c00211552",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-01T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 43,
+      "date": {
+        "$date": "2024-10-29T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb04"
+  },
+  "productID": "PROD049",
+  "productName": "Sports Product 49",
+  "description": "Stylish and functional for all occasions.",
+  "price": 98.23,
+  "quantity": 13,
+  "category": "Sports",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 49",
+      "user_id": "74281e22-8f6e-4312-a89a-16d086209613",
+      "date": {
+        "$date": "2024-12-26T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 49",
+      "user_id": "8a3a4ba4-18b0-419a-9d87-a458f49df4aa",
+      "date": {
+        "$date": "2024-06-04T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 49",
+      "user_id": "3993f496-c311-46b2-a9e8-b450b8ad8f95",
+      "date": {
+        "$date": "2024-09-27T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 4 for product 49",
+      "user_id": "8470f1a5-7d13-4c7a-9b7f-22dd0b92e50a",
+      "date": {
+        "$date": "2025-03-25T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "12585e36-5576-4e4e-ab73-8b8d1f24c0ad",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-03T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "ae196662-b55f-44ae-88fe-df5fdcc459d1",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-08-06T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "b69ea059-7da1-4365-a5d4-63ff3781df5c",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-07-09T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "d544c5f7-ab9c-412b-a100-1f13e2a00ae3",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-05-14T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "3a5c441b-7166-4a56-9f8b-0ae53d4eac24",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-09-07T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "15d5188d-03cb-4706-8268-30b4c0aee9c7",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-01-11T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "f3ea1d0b-c650-43a3-9594-7419fde439ce",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-06-02T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 20,
+      "date": {
+        "$date": "2024-12-27T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 24,
+      "date": {
+        "$date": "2024-12-09T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 34,
+      "date": {
+        "$date": "2025-02-01T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb05"
+  },
+  "productID": "PROD050",
+  "productName": "Electronics Product 50",
+  "description": "Designed for performance and durability.",
+  "price": 395.65,
+  "quantity": 69,
+  "category": "Electronics",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 50",
+      "user_id": "57c36ce4-951f-463d-adde-2636c61f79fa",
+      "date": {
+        "$date": "2025-05-17T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 50",
+      "user_id": "13b73c95-61d7-4537-ac08-973a23d81fd3",
+      "date": {
+        "$date": "2024-09-03T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 50",
+      "user_id": "b6040fe7-e6a5-46e7-8c2e-86eb66351ad1",
+      "date": {
+        "$date": "2025-04-01T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 4 for product 50",
+      "user_id": "f5bfc6d4-1d0a-4eb5-a859-f630fb18f7bd",
+      "date": {
+        "$date": "2024-10-01T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "d0741fc0-9310-4a52-b8fe-db66e58f68de",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-07-18T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "e177cf08-369d-44fe-93be-58264645cfbf",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-08-19T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "e9cc2920-47ef-4423-97e5-9f7812797b33",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-08-02T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "b7ee03ef-03a1-48a6-9cab-9d045c12f79e",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-07-19T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 41,
+      "date": {
+        "$date": "2024-12-28T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb06"
+  },
+  "productID": "PROD051",
+  "productName": "Electronics Product 51",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 171.4,
+  "quantity": 24,
+  "category": "Electronics",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 51",
+      "user_id": "a8fab922-3201-4590-9d85-9cf8617e3d89",
+      "date": {
+        "$date": "2025-03-11T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 51",
+      "user_id": "a45c4a1a-83ac-44c5-92b6-953313bda2fc",
+      "date": {
+        "$date": "2025-04-21T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 51",
+      "user_id": "a32a7007-de80-40d3-a701-7e5671aa69e9",
+      "date": {
+        "$date": "2025-05-31T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 4 for product 51",
+      "user_id": "271f22dd-d09b-4c38-8037-5429d4979ee6",
+      "date": {
+        "$date": "2024-07-31T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 5 for product 51",
+      "user_id": "292aae21-ea28-4ab9-931d-5fa05294a569",
+      "date": {
+        "$date": "2025-05-11T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "7a1dd568-382b-476a-9768-683957ab3eea",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-09-04T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 29,
+      "date": {
+        "$date": "2024-08-21T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2025-05-31T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 14,
+      "date": {
+        "$date": "2024-08-28T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb07"
+  },
+  "productID": "PROD052",
+  "productName": "Books Product 52",
+  "description": "Stylish and functional for all occasions.",
+  "price": 349.9,
+  "quantity": 67,
+  "category": "Books",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 52",
+      "user_id": "af125a1b-e575-4462-881a-a245d24a2060",
+      "date": {
+        "$date": "2024-06-02T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "7cee6c86-460f-41c8-99ff-fbec5c4e8c0f",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-30T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "8f6ce789-686d-4625-83df-839c5c19115b",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-10-05T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "6da4eb46-ba01-49f2-953c-faf3f0774402",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-08-20T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "6e86cb19-7e30-4e53-b4fc-9eee56b055d6",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-16T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 10,
+      "date": {
+        "$date": "2024-11-04T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb08"
+  },
+  "productID": "PROD053",
+  "productName": "Electronics Product 53",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 497.22,
+  "quantity": 31,
+  "category": "Electronics",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 53",
+      "user_id": "8d68de17-b8c6-4cc5-be25-7ec008e8837a",
+      "date": {
+        "$date": "2024-10-28T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 53",
+      "user_id": "6b0ada4b-b259-48b0-a9e3-3e33db08c0b1",
+      "date": {
+        "$date": "2025-03-19T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 53",
+      "user_id": "d9bb7d60-eb80-46b9-8463-4588e5d069d6",
+      "date": {
+        "$date": "2024-12-02T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 4 for product 53",
+      "user_id": "3b6ba9f2-2309-4a64-8272-47901270cfe4",
+      "date": {
+        "$date": "2024-11-28T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 5 for product 53",
+      "user_id": "c711a232-47fe-43b5-988c-2bdeda61cc45",
+      "date": {
+        "$date": "2024-11-28T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "47c3d7b0-68b9-48bb-8776-d919a27e6f1d",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-01-12T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "47c1f27a-277a-4caa-9895-e185fc98f60d",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-09-24T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "4de0a1a8-7ff1-4e60-a2f3-9c68285a6bf5",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-07-31T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "99dd4e1e-6b96-44a8-b811-981f5e32daca",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-29T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "81a8be9f-9ee3-4b7f-b844-5a992fd7443c",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-01-29T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "7046c81a-7ce0-489c-811a-2f7072c38568",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-20T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "15e52d1f-0687-413b-8653-8dad8db33dc7",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-03-01T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb09"
+  },
+  "productID": "PROD054",
+  "productName": "Electronics Product 54",
+  "description": "Stylish and functional for all occasions.",
+  "price": 74.59,
+  "quantity": 56,
+  "category": "Electronics",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 54",
+      "user_id": "0111c678-b5ed-46ba-828d-4a513261bf0c",
+      "date": {
+        "$date": "2025-01-25T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 54",
+      "user_id": "eb59481b-aa15-4a1c-ba1a-8ebc0abe21bb",
+      "date": {
+        "$date": "2025-01-30T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 54",
+      "user_id": "3f02c5f4-b60b-470d-9abd-494b09c95db2",
+      "date": {
+        "$date": "2024-11-27T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 4 for product 54",
+      "user_id": "3e6af141-1414-4647-a9af-76f85ad03600",
+      "date": {
+        "$date": "2024-09-17T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 5 for product 54",
+      "user_id": "4a6e1ffd-3ed0-4d4e-8e4a-17b744d2ba6d",
+      "date": {
+        "$date": "2024-06-24T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "097619dd-e122-4eda-8f84-0313b8ef5236",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-11-08T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "aa2a1cc0-3174-4c60-b87b-130bfc21d4be",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-09-11T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 21,
+      "date": {
+        "$date": "2025-01-02T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2025-03-23T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 24,
+      "date": {
+        "$date": "2024-10-15T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb0a"
+  },
+  "productID": "PROD055",
+  "productName": "Clothing Product 55",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 210.31,
+  "quantity": 48,
+  "category": "Clothing",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 55",
+      "user_id": "f5b1cbc9-2f33-4d6c-9a71-4397e617b601",
+      "date": {
+        "$date": "2024-10-07T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 35,
+      "date": {
+        "$date": "2024-11-02T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 22,
+      "date": {
+        "$date": "2024-11-28T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb0b"
+  },
+  "productID": "PROD056",
+  "productName": "Electronics Product 56",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 492.89,
+  "quantity": 84,
+  "category": "Electronics",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 56",
+      "user_id": "251b9b4c-e6b2-4efa-8062-c2a36ca7f2bc",
+      "date": {
+        "$date": "2024-10-12T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "616b73a3-8621-448e-b60c-86f201309c83",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-23T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "9b3fb289-b632-402b-a5bc-285f8d6b6d26",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-10-25T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "cf85bf76-033f-4d10-9494-fe5ce1a60499",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-06-24T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "09bd6063-c1c5-4eae-acfd-d9442a951b73",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-06-25T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 27,
+      "date": {
+        "$date": "2025-01-15T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 23,
+      "date": {
+        "$date": "2024-08-10T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb0c"
+  },
+  "productID": "PROD057",
+  "productName": "Books Product 57",
+  "description": "High-quality product for everyday use.",
+  "price": 431.9,
+  "quantity": 60,
+  "category": "Books",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 57",
+      "user_id": "890af360-4c96-4e46-b1bd-7c631cff9c6f",
+      "date": {
+        "$date": "2025-02-28T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 57",
+      "user_id": "d9db4505-ec50-4152-b51f-207d6726d3d2",
+      "date": {
+        "$date": "2025-04-09T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 57",
+      "user_id": "84ce0342-ca7c-4250-b147-afef06960568",
+      "date": {
+        "$date": "2024-10-09T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "6b9b9040-2ba0-42fd-8dd1-6713a70a766b",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-01-18T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "60978db8-301b-4378-bc5c-fc51cd34346c",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-05-20T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "3620b56c-d973-4b61-8189-b5c0db167fff",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-02-14T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "8fd983f2-c5a5-4cb9-a4cd-00389c435baf",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-10-29T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "afb58455-34b6-4082-bfc8-8ddba1f692b7",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-03-04T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 19,
+      "date": {
+        "$date": "2024-06-12T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 13,
+      "date": {
+        "$date": "2025-03-10T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb0d"
+  },
+  "productID": "PROD058",
+  "productName": "Clothing Product 58",
+  "description": "Stylish and functional for all occasions.",
+  "price": 203.41,
+  "quantity": 17,
+  "category": "Clothing",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 58",
+      "user_id": "799f2e1a-7289-4888-803e-919f3e4bd06c",
+      "date": {
+        "$date": "2024-09-27T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 49,
+      "date": {
+        "$date": "2025-03-25T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 16,
+      "date": {
+        "$date": "2024-06-13T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 15,
+      "date": {
+        "$date": "2024-08-05T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb0e"
+  },
+  "productID": "PROD059",
+  "productName": "Electronics Product 59",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 411.05,
+  "quantity": 12,
+  "category": "Electronics",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 59",
+      "user_id": "d187edcf-dbf8-4aa4-9f3e-ca2ecfc86b74",
+      "date": {
+        "$date": "2024-12-07T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 59",
+      "user_id": "199a51b7-fd7b-489d-9a36-1727c6af04b6",
+      "date": {
+        "$date": "2025-03-30T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 59",
+      "user_id": "b5671fa3-1318-46a0-8cca-56c12fc6eb39",
+      "date": {
+        "$date": "2025-05-11T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 4 for product 59",
+      "user_id": "f0008ccf-335a-448f-8ceb-9b11ccbe7399",
+      "date": {
+        "$date": "2024-12-14T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 27,
+      "date": {
+        "$date": "2025-02-22T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 23,
+      "date": {
+        "$date": "2025-03-16T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 22,
+      "date": {
+        "$date": "2025-01-07T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb0f"
+  },
+  "productID": "PROD060",
+  "productName": "Sports Product 60",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 15.25,
+  "quantity": 100,
+  "category": "Sports",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 60",
+      "user_id": "78f19878-b686-4487-8c67-44a4f7a96aa7",
+      "date": {
+        "$date": "2025-01-15T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 60",
+      "user_id": "ae719ad2-6528-4418-a342-b33f6d725338",
+      "date": {
+        "$date": "2024-08-16T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 60",
+      "user_id": "511f81d5-cbe0-47da-8284-37e822553a3f",
+      "date": {
+        "$date": "2025-05-09T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "919efaf4-0166-4cd9-993d-241b5841ce44",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-07-29T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2025-04-18T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2024-06-20T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 39,
+      "date": {
+        "$date": "2025-03-10T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb10"
+  },
+  "productID": "PROD061",
+  "productName": "Electronics Product 61",
+  "description": "High-quality product for everyday use.",
+  "price": 440.82,
+  "quantity": 71,
+  "category": "Electronics",
+  "brand": "SportyGear",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "b02530b7-275b-417f-9c12-a34f150b6cad",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-05-22T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "36f2beae-6d42-4a05-b07e-e4a2525f7eae",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-03-15T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "983f4c60-7c89-489e-a4ec-4244a7401d88",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-05-06T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "8d1de032-1dec-41ef-82cf-0ac846d39577",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-08-31T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "fd3d467c-af2f-4fa5-8b75-00977b9e408d",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-12-06T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "95a89c7c-a159-4b5d-b291-3003b3a00b84",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-09-20T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "8d28fd1f-db0b-4418-9170-db056b9dc9de",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-05-10T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "34463897-6e16-4d29-a7e1-dc342c72def8",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-03-01T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb11"
+  },
+  "productID": "PROD062",
+  "productName": "Electronics Product 62",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 480.61,
+  "quantity": 63,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "3402cfde-a80e-41e8-8feb-fac12f05a294",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-07-21T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "6c8f1c0f-e492-4ad9-8c78-22fd083ad206",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-05-26T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "dcd3e4b0-ba5f-4bbf-a295-b70664d4e884",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-07T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 25,
+      "date": {
+        "$date": "2024-10-15T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb12"
+  },
+  "productID": "PROD063",
+  "productName": "Clothing Product 63",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 439.78,
+  "quantity": 23,
+  "category": "Clothing",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 63",
+      "user_id": "92603ccb-9d08-4d8e-8f27-d67f6d91de2e",
+      "date": {
+        "$date": "2024-10-02T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 63",
+      "user_id": "b1a35321-19a3-40f5-bd0a-d3c30817c517",
+      "date": {
+        "$date": "2025-05-06T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 63",
+      "user_id": "7aa71607-b35c-4fab-9768-0f178c385710",
+      "date": {
+        "$date": "2024-08-04T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "aaecd850-b967-4d9f-af32-170e7f98fdbd",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-01-23T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 36,
+      "date": {
+        "$date": "2024-06-24T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 21,
+      "date": {
+        "$date": "2025-01-28T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 36,
+      "date": {
+        "$date": "2024-07-08T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb13"
+  },
+  "productID": "PROD064",
+  "productName": "Electronics Product 64",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 150.85,
+  "quantity": 27,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 64",
+      "user_id": "34d0679e-643f-4edb-b1cd-4c975fe0cfb8",
+      "date": {
+        "$date": "2024-06-21T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "e3a669c3-88fd-44c1-b823-5191e30b5df0",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-05-15T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "2d322819-28ab-4409-ad0d-5815bdf5a18b",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-12-27T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "3ec3783b-9b92-4d9b-98bb-22d2ecfe0954",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-11-02T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "f093d7a1-9a73-4d60-8612-7dc131f8773a",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-08-26T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "64e090dd-4f05-4250-82aa-a1b3654ca68c",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-12-16T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "70512645-ef46-4a78-98f0-beb6f89c145b",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-03-14T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "2ccf0070-ab29-409f-940e-b35739c63be9",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-02-05T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "f31677a3-8158-4d2c-8652-6c1e0f0a4ef9",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-01-02T07:45:50.169Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 30,
+      "date": {
+        "$date": "2024-06-30T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2024-12-16T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb14"
+  },
+  "productID": "PROD065",
+  "productName": "Home & Kitchen Product 65",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 363.16,
+  "quantity": 11,
+  "category": "Home & Kitchen",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 65",
+      "user_id": "fcbc207e-b4cd-422d-83f3-b3ebd8dc9984",
+      "date": {
+        "$date": "2025-02-13T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 47,
+      "date": {
+        "$date": "2024-09-14T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 22,
+      "date": {
+        "$date": "2024-10-02T07:45:50.169Z"
+      }
+    },
+    {
+      "quantity_added": 34,
+      "date": {
+        "$date": "2024-12-25T07:45:50.169Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb15"
+  },
+  "productID": "PROD066",
+  "productName": "Clothing Product 66",
+  "description": "Designed for performance and durability.",
+  "price": 118.29,
+  "quantity": 69,
+  "category": "Clothing",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 66",
+      "user_id": "4b392e1e-407b-4f0c-9b7c-d39ee45cab66",
+      "date": {
+        "$date": "2024-09-02T07:45:50.169Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 66",
+      "user_id": "68fe53cd-a152-4344-955a-1c440536bed1",
+      "date": {
+        "$date": "2024-10-29T07:45:50.169Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "c4efa2b3-7082-4a74-8033-ff5c26f5db40",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-09-23T07:45:50.169Z"
+      }
+    },
+    {
+      "order_id": "b95a8908-0ef9-4087-855e-5cbae57263df",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-02-24T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "fc700f57-efd0-4b36-80c3-50aa56cecd3b",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-03-10T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "be946b43-8521-42d6-ad4a-c85674983a28",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-08-03T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "19a7d426-7e4e-4ff3-83a1-71c6a73b0ecd",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-04-05T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "24fcb140-6b1b-42e7-9465-074bca2fdc7d",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-11-07T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 14,
+      "date": {
+        "$date": "2024-08-06T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb16"
+  },
+  "productID": "PROD067",
+  "productName": "Electronics Product 67",
+  "description": "Designed for performance and durability.",
+  "price": 249.8,
+  "quantity": 92,
+  "category": "Electronics",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 67",
+      "user_id": "a05bb901-8007-4c5c-9bef-3108ccccf283",
+      "date": {
+        "$date": "2024-10-28T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 67",
+      "user_id": "7f47c777-27a0-44dc-947e-f8c689f125bd",
+      "date": {
+        "$date": "2025-04-27T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 67",
+      "user_id": "c551e892-3cc1-43d5-ab85-088c1fbe26fa",
+      "date": {
+        "$date": "2024-06-13T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 4 for product 67",
+      "user_id": "e407abcd-70ab-44bc-ba4a-a2c56f1e6092",
+      "date": {
+        "$date": "2025-02-17T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "ff65f52d-dcec-40d9-8f9c-a812c0ed5453",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-05T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "a4e5fa7a-3d6d-4e84-97a3-053fc05846f9",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-26T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "bb6de9b4-08cc-469d-8f62-d2dc4b746214",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-03-02T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "29f2f657-89d6-48f1-abec-eb9af2051ebf",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-04-19T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "97859fcb-1d71-418a-bb87-e6468c9b0783",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-09-21T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "68b72f82-c9ff-4306-ba95-6b85e0b3d6f7",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-12-14T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "acc04910-af90-4ac4-8512-ce31fe236c02",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-09-27T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "44b0fcca-269e-4908-b08a-bc4d0ea0ae21",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-09-27T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "37dcb091-a0c7-4d71-abae-cff6cd49ab1a",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-07-20T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 48,
+      "date": {
+        "$date": "2025-04-16T07:45:50.170Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2025-02-02T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb17"
+  },
+  "productID": "PROD068",
+  "productName": "Clothing Product 68",
+  "description": "Stylish and functional for all occasions.",
+  "price": 14.2,
+  "quantity": 57,
+  "category": "Clothing",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 68",
+      "user_id": "889e75c2-5f62-4568-8e2c-7008560aab01",
+      "date": {
+        "$date": "2024-11-22T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 68",
+      "user_id": "306f2183-7cb9-4621-8075-9434efafe045",
+      "date": {
+        "$date": "2024-08-07T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 68",
+      "user_id": "f00df805-bc80-42bb-ab22-0e412d408204",
+      "date": {
+        "$date": "2024-11-16T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 4 for product 68",
+      "user_id": "e001ff11-8346-45e0-8e4b-a8de3070ca40",
+      "date": {
+        "$date": "2024-08-03T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 5 for product 68",
+      "user_id": "401e95fe-a714-439b-a7b4-60b89ffbf743",
+      "date": {
+        "$date": "2024-08-29T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "7fa60ccd-060d-465a-9611-a68f7cb63915",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-04T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "7f022caa-53f5-40a6-b6e3-842abc6213db",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-06-29T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "7dc41ff0-e570-42e8-b306-df8472cd21bc",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-01-18T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-08-13T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb18"
+  },
+  "productID": "PROD069",
+  "productName": "Electronics Product 69",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 146.54,
+  "quantity": 33,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 69",
+      "user_id": "5aedd7f2-b95f-4547-ae60-dc8c6a3456e9",
+      "date": {
+        "$date": "2025-02-19T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 69",
+      "user_id": "c99ddc34-9c0f-458a-be8d-76bef0c26f20",
+      "date": {
+        "$date": "2024-08-17T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "50f98494-a749-48f0-980d-27cc449862fd",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-04-22T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "e8d106ac-986e-4c47-8a97-8b8ccf82182e",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-09-21T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "9b3bbe70-a7d0-4a0a-b281-65b32fa9e81c",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-10-27T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "da98a1a9-9aa1-44c5-9318-f1eaf8998881",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-08-02T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 30,
+      "date": {
+        "$date": "2024-08-17T07:45:50.170Z"
+      }
+    },
+    {
+      "quantity_added": 25,
+      "date": {
+        "$date": "2025-01-31T07:45:50.170Z"
+      }
+    },
+    {
+      "quantity_added": 41,
+      "date": {
+        "$date": "2024-12-08T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb19"
+  },
+  "productID": "PROD070",
+  "productName": "Home & Kitchen Product 70",
+  "description": "High-quality product for everyday use.",
+  "price": 132.37,
+  "quantity": 60,
+  "category": "Home & Kitchen",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 70",
+      "user_id": "0cec3af2-1ac6-4f84-8e99-d6a86156b228",
+      "date": {
+        "$date": "2025-02-01T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "7ae67565-273d-4987-9c85-2f6ee1f42590",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-03T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "29e80db6-2f09-442b-8ae0-4404df3a0fe8",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-08-22T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "784ca236-e2b5-43a6-9f4d-fc754f70dc9a",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-10-12T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "aa5d8d40-64fb-430b-8101-8722a46269a5",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-10-10T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "4a21c460-e498-47b0-b198-fb366f5359f9",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-03T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "f5dcda5e-4043-403a-99ce-83950b6df752",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-05-23T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "e87b873e-872e-4bd5-a1ba-a9f4787e8e12",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-04-29T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "62e9af0f-acc4-4249-8066-8636b19c2fa0",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-09-24T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "d8618981-5696-45b5-a816-e1727b3686e0",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-04-22T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "fc8b2acb-c119-4536-9e0a-db822024ad81",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-15T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 18,
+      "date": {
+        "$date": "2025-05-06T07:45:50.170Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2025-02-02T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb1a"
+  },
+  "productID": "PROD071",
+  "productName": "Sports Product 71",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 140.93,
+  "quantity": 22,
+  "category": "Sports",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 71",
+      "user_id": "2230acca-3dda-433e-a734-2e587175713b",
+      "date": {
+        "$date": "2025-04-23T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 71",
+      "user_id": "31b2ec3b-507e-438c-ad93-3de741c59924",
+      "date": {
+        "$date": "2025-04-24T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 71",
+      "user_id": "27c7f4f5-b7c3-48c7-b8e4-b22c3c971195",
+      "date": {
+        "$date": "2024-06-08T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 71",
+      "user_id": "2cc35ae1-324a-4574-8434-7f97b6300832",
+      "date": {
+        "$date": "2024-12-30T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 5 for product 71",
+      "user_id": "9209daa5-7a65-4d94-9daa-8079ebcf8392",
+      "date": {
+        "$date": "2024-11-22T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "ddab76c6-f524-4d92-97c2-274a3289fc45",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-10-27T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "9fc9e6a4-339c-49be-8929-d015cf831616",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-09-15T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "17cd0e9f-89e0-4166-ab40-4930898e91af",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-30T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "e11c4b32-5dd9-453f-b168-dafe6ef60283",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-04T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "b25917ac-e052-49bb-86c9-bb376a4dbbac",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-03T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "caf5a405-5e09-4a45-99e9-d424bf9bf805",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-05-02T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "1b300c84-bd0f-4470-a2a8-07ad3259f692",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-09-21T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "ca573911-0e27-4113-89ce-2cfbca4d026a",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-02T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "f7f940dc-a553-4588-8a05-d5bbdf302bf1",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-02-05T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "e04bd41a-2a17-467e-8ec9-e4496276eb81",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-11-10T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-08-24T07:45:50.170Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2024-11-04T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb1b"
+  },
+  "productID": "PROD072",
+  "productName": "Sports Product 72",
+  "description": "Designed for performance and durability.",
+  "price": 468.69,
+  "quantity": 54,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 72",
+      "user_id": "63dd96dd-66f2-4d28-96c5-c8f0d6914c13",
+      "date": {
+        "$date": "2024-08-17T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 72",
+      "user_id": "0e610699-a6fe-44ba-98e5-ddd0c418a081",
+      "date": {
+        "$date": "2025-05-28T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 72",
+      "user_id": "c9c23742-d1c5-4aa3-9070-9677dccae099",
+      "date": {
+        "$date": "2025-04-22T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb1c"
+  },
+  "productID": "PROD073",
+  "productName": "Home & Kitchen Product 73",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 160.95,
+  "quantity": 21,
+  "category": "Home & Kitchen",
+  "brand": "SportyGear",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "e814f445-20d9-4f38-b8a1-f9543fac814a",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-09-07T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "a126a190-ca4a-4e7b-81de-b476915dc21d",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-06-08T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "2e2707c7-c662-4e30-ba7d-6b40098df14a",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-02-25T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "d7ac0732-24ec-4ceb-aa84-a7b6d633a238",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-08-31T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "e85ada99-2e16-4522-a395-9bce9e8ce100",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-02-28T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "60e8fb6c-255e-4b9b-b99a-8bd9ac47423b",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-27T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "466bf0e1-c993-4161-8500-b77e1d4f3d7e",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-22T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "cf5ba506-6cd8-4762-bbe3-33772e5101e1",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-12-05T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "e1c2b3b3-a088-46dc-9853-4898c47ba8aa",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-05-14T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb1d"
+  },
+  "productID": "PROD074",
+  "productName": "Home & Kitchen Product 74",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 383.94,
+  "quantity": 56,
+  "category": "Home & Kitchen",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 74",
+      "user_id": "143d74e8-3e5c-4187-9ed9-370408e521fd",
+      "date": {
+        "$date": "2024-10-27T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 74",
+      "user_id": "a3edcfec-c6f3-46d1-be7d-3a86c84eafa9",
+      "date": {
+        "$date": "2024-11-02T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 74",
+      "user_id": "d8640829-b388-46c4-94d7-f3c8b99b103c",
+      "date": {
+        "$date": "2024-10-25T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 4 for product 74",
+      "user_id": "e3db3e57-1924-45f6-b893-52b3485a4254",
+      "date": {
+        "$date": "2024-09-05T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "3566582d-47c6-40af-bbc3-0512a40e570a",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-08-28T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "59c48f74-5534-4f41-98a3-8b7f07798149",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-11-04T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "7316f363-97b0-492b-ada6-a17ba4599f84",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-04-03T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "92a870b5-4f9d-4f97-be05-ddb585f36672",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-12-16T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "a23a2740-3e18-42df-a5a6-275039448df2",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-05-02T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "2ee26d35-17f7-41ad-9fee-458e0bcb593d",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-01-10T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 47,
+      "date": {
+        "$date": "2025-05-12T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb1e"
+  },
+  "productID": "PROD075",
+  "productName": "Sports Product 75",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 26.46,
+  "quantity": 55,
+  "category": "Sports",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 75",
+      "user_id": "0f015650-975c-42ee-a340-c6951179fb7f",
+      "date": {
+        "$date": "2024-07-30T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 75",
+      "user_id": "5c54fd6e-b21c-4f3a-89e3-1481b8ead60c",
+      "date": {
+        "$date": "2024-11-16T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 3 for product 75",
+      "user_id": "b1254ad9-c389-4da6-92c4-44ae96962f51",
+      "date": {
+        "$date": "2025-03-20T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 4 for product 75",
+      "user_id": "da2fb774-1a55-412d-98be-e0c33e4d46d1",
+      "date": {
+        "$date": "2025-02-07T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 5 for product 75",
+      "user_id": "ae83434a-0ffd-46a1-bcc7-29604817ee52",
+      "date": {
+        "$date": "2025-05-21T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "4080b4c8-8c87-4f39-b5d3-b6af9a699989",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-01-05T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "d7f660f1-dc9e-42d5-8e44-1273cf8c9836",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-11-01T07:45:50.170Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2024-11-27T07:45:50.170Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb1f"
+  },
+  "productID": "PROD076",
+  "productName": "Electronics Product 76",
+  "description": "Designed for performance and durability.",
+  "price": 39.47,
+  "quantity": 20,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 76",
+      "user_id": "f5a6379f-eac6-4abc-8e64-b3e133ad90b5",
+      "date": {
+        "$date": "2024-11-09T07:45:50.170Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 76",
+      "user_id": "ecefafb2-0d06-455b-af5e-a6759e2743ed",
+      "date": {
+        "$date": "2025-02-01T07:45:50.170Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "66fd137e-9f58-4f37-85a0-ed43eb2f4322",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-11-11T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "263ce202-3049-446b-b21e-e4525bc50cbc",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-10-31T07:45:50.170Z"
+      }
+    },
+    {
+      "order_id": "f6b29a1e-b39a-4bf2-8847-40cf501ae92c",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-12-21T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "36f3a786-9d9e-4036-853d-8384c91ff06b",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-08-10T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "50d295d1-c96c-428a-8a0b-972f302a9906",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-12-25T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 13,
+      "date": {
+        "$date": "2024-11-19T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 13,
+      "date": {
+        "$date": "2024-12-03T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 13,
+      "date": {
+        "$date": "2024-06-16T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb20"
+  },
+  "productID": "PROD077",
+  "productName": "Electronics Product 77",
+  "description": "Designed for performance and durability.",
+  "price": 177.87,
+  "quantity": 99,
+  "category": "Electronics",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 77",
+      "user_id": "87bec701-b927-4660-8900-023f36416f76",
+      "date": {
+        "$date": "2025-03-18T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 77",
+      "user_id": "b4f76599-9a10-4764-9606-f1dba31c870e",
+      "date": {
+        "$date": "2024-10-09T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 3 for product 77",
+      "user_id": "a5520942-6ade-40bf-b93c-0ff18eefa267",
+      "date": {
+        "$date": "2025-01-23T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "9eef9b81-956b-4f90-80a9-0df1693de6c0",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-09-13T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "c090f50a-b0c0-4800-ad8c-adedda494f52",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-04-06T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "d70f6da1-b0dc-4d6b-856e-5155464a1f5b",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-27T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 49,
+      "date": {
+        "$date": "2025-02-07T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 10,
+      "date": {
+        "$date": "2024-06-22T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 16,
+      "date": {
+        "$date": "2025-03-06T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb21"
+  },
+  "productID": "PROD078",
+  "productName": "Sports Product 78",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 30.02,
+  "quantity": 79,
+  "category": "Sports",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 78",
+      "user_id": "1289b33c-fab2-4fd1-bd7a-8e2b415d8934",
+      "date": {
+        "$date": "2024-12-26T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 78",
+      "user_id": "4cfca315-89d6-4158-ad5e-cdd663d73646",
+      "date": {
+        "$date": "2025-04-01T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 78",
+      "user_id": "352802a3-d0c0-4b0e-81b1-3b6559ae79f8",
+      "date": {
+        "$date": "2024-10-26T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "f7dd7188-dd94-45ec-aa3f-987afa951760",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-10-20T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "2f3817c3-3dd6-4e09-9048-f41ca8960349",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-10-15T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "74479f08-d9dd-46c3-bf8b-0c1df0fbf678",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-06-29T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "fdcbfb5a-0d65-44af-babc-2cd5649fa3ca",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-08-30T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "f4d6cac3-b275-442c-b5a8-b8b98010ceba",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-04-02T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb22"
+  },
+  "productID": "PROD079",
+  "productName": "Home & Kitchen Product 79",
+  "description": "Designed for performance and durability.",
+  "price": 240.15,
+  "quantity": 30,
+  "category": "Home & Kitchen",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 79",
+      "user_id": "e543edbe-73a0-461a-b78b-9d75884249c9",
+      "date": {
+        "$date": "2024-12-29T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 79",
+      "user_id": "43c6601b-319b-4465-8c70-12a3d85fe087",
+      "date": {
+        "$date": "2025-02-11T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 79",
+      "user_id": "b8a32b43-a4dd-48f0-b828-ca88f35d6abc",
+      "date": {
+        "$date": "2025-02-19T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 79",
+      "user_id": "af617410-56b9-492c-b189-3f534023dfd0",
+      "date": {
+        "$date": "2024-12-10T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "d4d0f001-4bef-47f6-a1a7-16da6c29323f",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-02-23T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "138f18d5-e5b9-4ff5-80f2-20c143770b55",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-02-27T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "9002329a-3397-4160-9d17-7dd2b4a0f5a0",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-06-22T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "b3a7a0fc-3bb8-42f5-9d90-cbb3ca914bc7",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-24T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "c490254b-60d9-4e15-8369-4776ee96085a",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-05-21T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "c332af73-d6a4-40b8-85cb-a17c309ceb75",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-07-21T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "22b62135-3cc5-4b47-954c-521a7fc73938",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-12-10T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "21803071-00cc-4809-91c2-fea4b5110d43",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-04-16T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "ead14268-46bd-441d-ab6f-eca79620ee1b",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-03-29T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 10,
+      "date": {
+        "$date": "2024-10-13T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb23"
+  },
+  "productID": "PROD080",
+  "productName": "Books Product 80",
+  "description": "High-quality product for everyday use.",
+  "price": 426.92,
+  "quantity": 68,
+  "category": "Books",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 80",
+      "user_id": "a05e6250-0f1d-4ffe-88f8-2bf97f214eba",
+      "date": {
+        "$date": "2025-05-05T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "f60b9b22-506d-40ec-9a6f-3e930b5c5887",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-03-31T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "154fe2ae-34a8-4c95-8729-98c94de2691a",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-08-05T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb24"
+  },
+  "productID": "PROD081",
+  "productName": "Clothing Product 81",
+  "description": "Stylish and functional for all occasions.",
+  "price": 97.85,
+  "quantity": 27,
+  "category": "Clothing",
+  "brand": "HomeEssentials",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "6121e9e3-91be-4256-9198-f4bfed25dda6",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-07-18T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "845c4656-cb1c-4b00-a0b2-ee9d94595215",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-12-12T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "d6a3f78b-b1ea-42ce-9b7d-e3fb091eedc8",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-11-17T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "03559da5-c8e5-4613-bf0a-2fb81759632a",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-07T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "dddaf954-0dbf-4bb0-b994-6690b1e0fefa",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-06-24T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "d9262617-66a2-4e0c-b317-ae54b56a5d46",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-12-20T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb25"
+  },
+  "productID": "PROD082",
+  "productName": "Books Product 82",
+  "description": "High-quality product for everyday use.",
+  "price": 20.56,
+  "quantity": 64,
+  "category": "Books",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 82",
+      "user_id": "f86e9cff-a5ac-4d8e-9b2a-71f0d4c71ef3",
+      "date": {
+        "$date": "2025-05-10T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 82",
+      "user_id": "85767deb-7891-480e-91bc-1de6c0a1cf7d",
+      "date": {
+        "$date": "2025-03-09T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 82",
+      "user_id": "94861ce6-0a33-47ef-9e69-a511be36ba9b",
+      "date": {
+        "$date": "2025-03-22T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "679ebef9-e952-4faf-8d96-476297842fd6",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-04-02T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "e1d82cc6-3b9f-4cef-9f99-a482e905dcb6",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-12-23T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "cfefa898-a708-477b-b9f1-207fe49faa9d",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-03-28T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "9fe3a1da-cef0-4825-ad91-7f4850cbb5ea",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-07-17T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "e4680597-3b11-4add-9eb7-28c9bf54cdab",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-01-31T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "96764614-0ee7-4359-8586-0ba96f291d76",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-05-17T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "7e2b8df1-d104-4938-b20e-7b567a248b22",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-10-23T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb26"
+  },
+  "productID": "PROD083",
+  "productName": "Books Product 83",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 338.77,
+  "quantity": 77,
+  "category": "Books",
+  "brand": "SportyGear",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "527aca2d-0eeb-48cd-a686-feacedc040a5",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-08-20T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 25,
+      "date": {
+        "$date": "2024-10-10T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 17,
+      "date": {
+        "$date": "2024-09-05T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb27"
+  },
+  "productID": "PROD084",
+  "productName": "Books Product 84",
+  "description": "Designed for performance and durability.",
+  "price": 416.52,
+  "quantity": 49,
+  "category": "Books",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 84",
+      "user_id": "0759f24a-dfc5-4437-b4cb-cc66a947eb5c",
+      "date": {
+        "$date": "2024-06-22T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 84",
+      "user_id": "daa48ee9-9522-411f-a384-acc8d456b861",
+      "date": {
+        "$date": "2024-09-25T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 84",
+      "user_id": "ba1f4f60-b5be-44d5-979a-79b89915d54f",
+      "date": {
+        "$date": "2024-08-19T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 84",
+      "user_id": "f15f5667-ae36-4750-bc7b-16fe19f6816f",
+      "date": {
+        "$date": "2025-01-22T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 5 for product 84",
+      "user_id": "bbf59d5c-2c76-448d-9b87-2ec213a5032d",
+      "date": {
+        "$date": "2024-07-10T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "1f2692c9-8f86-464f-b400-ead309616796",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-08-16T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "6e23883d-7cfa-4dd8-99cb-59ad5c559d05",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-09-13T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "d77c5539-c087-48a6-934c-77106348d04e",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-05-04T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "30232e19-60ff-4944-9bbc-0aba6c7ac3fc",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-10-04T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 26,
+      "date": {
+        "$date": "2025-03-12T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb28"
+  },
+  "productID": "PROD085",
+  "productName": "Home & Kitchen Product 85",
+  "description": "High-quality product for everyday use.",
+  "price": 82.5,
+  "quantity": 37,
+  "category": "Home & Kitchen",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 85",
+      "user_id": "cfaffc5f-0cdc-4d4b-baba-0f0abad5dadf",
+      "date": {
+        "$date": "2024-11-20T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 85",
+      "user_id": "14fc093e-3a97-48aa-a431-ab0a5ddf2baa",
+      "date": {
+        "$date": "2024-10-31T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 3 for product 85",
+      "user_id": "eda05afa-4710-4392-9cb8-e4156bc30f8c",
+      "date": {
+        "$date": "2024-12-31T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "4a8f957e-4c9f-4cba-a927-cb00463081d0",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-10-09T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "ae6e1d81-4fb2-4f65-84f3-24cd0f17ad57",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-05-14T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "b60a3121-f8b0-4c63-8395-f1b00b904e43",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-01-21T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "4376bb80-7fe9-4093-a024-a4610476e4ab",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-09-22T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "1720d9a5-45b8-4abe-9fdc-723a7069a179",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-04-01T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "8e83429d-c1b2-4caf-b228-7c7a0f939f50",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-09-09T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 29,
+      "date": {
+        "$date": "2025-04-24T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 21,
+      "date": {
+        "$date": "2024-10-10T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb29"
+  },
+  "productID": "PROD086",
+  "productName": "Home & Kitchen Product 86",
+  "description": "Stylish and functional for all occasions.",
+  "price": 189.75,
+  "quantity": 62,
+  "category": "Home & Kitchen",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 86",
+      "user_id": "6b72c7ec-f745-4cab-b894-7277bb8c40e1",
+      "date": {
+        "$date": "2024-09-12T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 86",
+      "user_id": "b630e045-494e-4600-8b35-e59b4cb3b05b",
+      "date": {
+        "$date": "2025-04-11T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 3 for product 86",
+      "user_id": "c98538d3-39ea-4e0b-90bb-de58328a7c27",
+      "date": {
+        "$date": "2024-09-08T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "c95411c8-35cd-4738-9209-6558e37de675",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-11-13T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "9135cfcf-d068-4567-94e5-5956118f29cc",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-11-28T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "eb4a4d90-a8a6-4ad6-9382-faa2bdf6de4f",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-11-18T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "323cb1fc-e193-4dc1-ad8a-f1f55ae4abc3",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-03-21T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "2166df5d-505c-4313-8915-eb10c4f826b2",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-04-07T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "3858920b-0792-48ce-9996-e328e511b635",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-12-31T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "29851e13-99d8-47c8-84e9-d6ab9c3e7331",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-16T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 15,
+      "date": {
+        "$date": "2025-01-13T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 39,
+      "date": {
+        "$date": "2025-02-21T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-11-09T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb2a"
+  },
+  "productID": "PROD087",
+  "productName": "Books Product 87",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 460.01,
+  "quantity": 67,
+  "category": "Books",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 87",
+      "user_id": "4f8d88ab-3427-4a36-9713-dae34b1e54fa",
+      "date": {
+        "$date": "2025-03-14T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 87",
+      "user_id": "f086953f-4410-4c63-a128-9ae57add1618",
+      "date": {
+        "$date": "2024-10-16T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "1bd3ae8f-d4ce-40da-8208-d2b639fae01c",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-05-24T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "fd330a04-9c00-46e7-af62-0946fb5e9ba7",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-02-02T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "c931e1e3-ff5b-4ebe-9e4d-e9c419c3a592",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-04-21T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 23,
+      "date": {
+        "$date": "2024-08-01T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 16,
+      "date": {
+        "$date": "2025-03-15T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb2b"
+  },
+  "productID": "PROD088",
+  "productName": "Books Product 88",
+  "description": "High-quality product for everyday use.",
+  "price": 150.13,
+  "quantity": 97,
+  "category": "Books",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 5,
+      "comment": "Review 1 for product 88",
+      "user_id": "b50700f6-bc63-4628-9dd7-64dfaf842e1c",
+      "date": {
+        "$date": "2024-07-02T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 2 for product 88",
+      "user_id": "06354595-abac-42ec-b0d0-f4d3423668ad",
+      "date": {
+        "$date": "2024-12-11T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 3 for product 88",
+      "user_id": "c22cca5d-df14-41c7-a6f3-3c08ca00b7fb",
+      "date": {
+        "$date": "2025-01-15T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "c6fed4da-ddf7-48b7-a272-131e713fa2a9",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-05-29T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "8bc7d680-332e-425b-9508-f717b5fbf3d2",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2024-06-21T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb2c"
+  },
+  "productID": "PROD089",
+  "productName": "Electronics Product 89",
+  "description": "High-quality product for everyday use.",
+  "price": 424.82,
+  "quantity": 62,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 89",
+      "user_id": "44e40618-e712-41ec-be76-5e7e2b5778e9",
+      "date": {
+        "$date": "2024-12-11T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "692cacb9-af1b-43f3-9381-4d3ecd715fbc",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-06-24T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "b9af1331-2044-4dbf-84dd-7aa038d7fa96",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-07T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "f0d560d6-d707-4050-911b-cf4ca04471f8",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-04-16T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 41,
+      "date": {
+        "$date": "2025-01-31T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 39,
+      "date": {
+        "$date": "2024-09-17T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb2d"
+  },
+  "productID": "PROD090",
+  "productName": "Home & Kitchen Product 90",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 333.52,
+  "quantity": 23,
+  "category": "Home & Kitchen",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 90",
+      "user_id": "cdfd7dd5-4872-4375-85f2-6a9d27ad8865",
+      "date": {
+        "$date": "2024-09-14T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "cccb2434-0d99-4f36-881f-f18edd480e35",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2024-08-12T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "023ab039-3370-4e57-99c9-97cc8b93cad0",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-12-12T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "e626fe21-73a3-409f-9f12-9ae773867608",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-06-05T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "26115f13-bcea-4ec6-852b-bccca0fee02b",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-10-20T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 18,
+      "date": {
+        "$date": "2024-06-30T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb2e"
+  },
+  "productID": "PROD091",
+  "productName": "Electronics Product 91",
+  "description": "High-quality product for everyday use.",
+  "price": 280.11,
+  "quantity": 45,
+  "category": "Electronics",
+  "brand": "LitLovers",
+  "ratings": [],
+  "sales_history": [
+    {
+      "order_id": "f3a6b11a-506b-4cfd-ac1c-5cb071ca08e6",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-12-14T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "1e2a3c9a-1c17-441d-80d4-a5c53e7a1a9f",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-04-30T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "2c30f150-0f5b-49e1-8e4e-783235c0997a",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-07-14T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "bba9d574-32cd-4e5f-a399-c5bbfc5d6e02",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-10-22T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "08ecf676-5888-45b2-a53f-59f721e0ca4b",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-06-23T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "f5dcf677-ad47-4f90-af25-9ecaa535a2f0",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-12-06T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "a4cefd66-7da9-4f19-820f-bf7ef4f20b51",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-05-04T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-06-21T07:45:50.171Z"
+      }
+    },
+    {
+      "quantity_added": 50,
+      "date": {
+        "$date": "2024-11-18T07:45:50.171Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb2f"
+  },
+  "productID": "PROD092",
+  "productName": "Clothing Product 92",
+  "description": "Stylish and functional for all occasions.",
+  "price": 125.53,
+  "quantity": 98,
+  "category": "Clothing",
+  "brand": "FashionHub",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 92",
+      "user_id": "c2cf4edf-f17d-4923-a552-280f980dd7e0",
+      "date": {
+        "$date": "2024-06-03T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 2 for product 92",
+      "user_id": "80623030-2e36-4d4a-bbba-4c9d82f92635",
+      "date": {
+        "$date": "2025-02-01T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb30"
+  },
+  "productID": "PROD093",
+  "productName": "Sports Product 93",
+  "description": "High-quality product for everyday use.",
+  "price": 483.12,
+  "quantity": 28,
+  "category": "Sports",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 3,
+      "comment": "Review 1 for product 93",
+      "user_id": "d9d890df-5a36-4194-ac38-19fe5fd4ce02",
+      "date": {
+        "$date": "2025-03-03T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "67f998f1-ee44-4d30-a04e-272be2e1602f",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-04-28T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "59b242fa-e56e-49d8-bc38-1355beef517d",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-10-03T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "981956b9-aaab-4f49-a091-a3e8e1fd4a94",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-11T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "abef4d8c-b1b9-479a-98bc-fa8ece090f93",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-07-12T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "e8caa6b7-b4ce-42a1-bc0a-e5dc721ae004",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-04-14T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb31"
+  },
+  "productID": "PROD094",
+  "productName": "Books Product 94",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 427.12,
+  "quantity": 47,
+  "category": "Books",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 94",
+      "user_id": "7b570ce1-dc42-4076-9611-7625cc5a3c4e",
+      "date": {
+        "$date": "2024-10-18T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 94",
+      "user_id": "47fb1b75-7555-4273-b18e-af06e1ea32d5",
+      "date": {
+        "$date": "2025-05-23T07:45:50.171Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 3 for product 94",
+      "user_id": "3909dcb1-0da9-4b6f-9e8f-1089b042b20f",
+      "date": {
+        "$date": "2024-09-12T07:45:50.171Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "db66fed8-ed96-4a92-829e-67bad97f9d07",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2024-10-29T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "c3a28f6c-1e5f-4e10-acbe-ce07bffd2d1e",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2024-06-09T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "c79cb969-2f3a-4c6f-ada2-34900dd7766c",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2025-01-08T07:45:50.171Z"
+      }
+    },
+    {
+      "order_id": "605263e5-7506-4fb3-8a58-83588bd2fb8b",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2025-02-22T07:45:50.171Z"
+      }
+    }
+  ],
+  "restock_history": [],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb32"
+  },
+  "productID": "PROD095",
+  "productName": "Home & Kitchen Product 95",
+  "description": "Designed for performance and durability.",
+  "price": 98.06,
+  "quantity": 84,
+  "category": "Home & Kitchen",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 95",
+      "user_id": "7af8e95d-3b89-4d0a-a8a2-cbc782b43398",
+      "date": {
+        "$date": "2025-05-23T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 95",
+      "user_id": "5fa3bcde-2a54-4d04-99c0-b6ad49c6c893",
+      "date": {
+        "$date": "2024-09-21T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 3 for product 95",
+      "user_id": "c286522f-7fc1-46da-8e64-874b1795f09b",
+      "date": {
+        "$date": "2025-05-28T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 1,
+      "comment": "Review 4 for product 95",
+      "user_id": "1409a7fd-f1be-48d4-bf84-3d64ee0f5c39",
+      "date": {
+        "$date": "2024-08-04T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 5 for product 95",
+      "user_id": "67ff74e9-b320-45f7-9389-72f4e5bef1d7",
+      "date": {
+        "$date": "2025-03-01T07:45:50.172Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "49664ab6-5d21-4ef9-93b4-75b7047f8702",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-05-30T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "905be006-7a58-41c6-b75e-b278d61acfc6",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-10-01T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "15be8c60-0156-47dd-a465-128e83f81d6e",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2025-03-16T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "5e4264c1-730d-4cd5-ba43-57bfb4c681e5",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-01-31T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "51b342e3-15e5-4ed9-9938-534fbcf8737b",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-04-20T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "6a7eee3f-87c8-4660-8fc3-0bfb50fe95ba",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-04-19T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "219ba549-79ad-4357-8576-3cbb7ad960f2",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-07-26T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "3a26e211-0dbd-46db-be6b-c7658f9e33ab",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-09-27T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "356f744e-f4b9-4f4a-8a18-d3e3674fd0b7",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-06-16T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "e3eb6b8b-7592-476d-8fa0-3a9613fd7530",
+      "quantity_sold": 2,
+      "date": {
+        "$date": "2024-12-16T07:45:50.172Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 22,
+      "date": {
+        "$date": "2024-06-15T07:45:50.172Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb33"
+  },
+  "productID": "PROD096",
+  "productName": "Home & Kitchen Product 96",
+  "description": "Eco-friendly and sustainable choice.",
+  "price": 495.78,
+  "quantity": 94,
+  "category": "Home & Kitchen",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 96",
+      "user_id": "e4d988e1-649c-4478-883b-494c6b141eaf",
+      "date": {
+        "$date": "2025-04-02T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 96",
+      "user_id": "2b757432-8aaa-4813-80af-5bf498eb631e",
+      "date": {
+        "$date": "2024-11-04T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 96",
+      "user_id": "ec44ac21-efb1-45b8-a204-d5287249d764",
+      "date": {
+        "$date": "2024-12-27T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 4 for product 96",
+      "user_id": "04ac256a-b977-4783-9b60-334db2292520",
+      "date": {
+        "$date": "2025-02-16T07:45:50.172Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "b61b3bee-1bf3-47d0-a1f5-ad3ca31bd6c8",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-06-01T07:45:50.172Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 33,
+      "date": {
+        "$date": "2024-07-18T07:45:50.172Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb34"
+  },
+  "productID": "PROD097",
+  "productName": "Books Product 97",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 282.45,
+  "quantity": 19,
+  "category": "Books",
+  "brand": "HomeEssentials",
+  "ratings": [
+    {
+      "score": 1,
+      "comment": "Review 1 for product 97",
+      "user_id": "615b2736-6b44-43d6-af96-1e5c54cb9bfb",
+      "date": {
+        "$date": "2025-01-13T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 2 for product 97",
+      "user_id": "e080f24c-7810-41d7-8c37-6a6ee136e43b",
+      "date": {
+        "$date": "2024-06-16T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 3 for product 97",
+      "user_id": "23ce59e8-50c0-4163-9f0f-90615341e9b7",
+      "date": {
+        "$date": "2024-09-07T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 4 for product 97",
+      "user_id": "b3a148a2-af60-4957-8060-e25a2846511f",
+      "date": {
+        "$date": "2024-12-01T07:45:50.172Z"
+      }
+    }
+  ],
+  "sales_history": [],
+  "restock_history": [
+    {
+      "quantity_added": 44,
+      "date": {
+        "$date": "2024-10-24T07:45:50.172Z"
+      }
+    },
+    {
+      "quantity_added": 46,
+      "date": {
+        "$date": "2024-08-06T07:45:50.172Z"
+      }
+    },
+    {
+      "quantity_added": 38,
+      "date": {
+        "$date": "2024-07-13T07:45:50.172Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb35"
+  },
+  "productID": "PROD098",
+  "productName": "Sports Product 98",
+  "description": "Perfect for enthusiasts and professionals.",
+  "price": 66.52,
+  "quantity": 10,
+  "category": "Sports",
+  "brand": "SportyGear",
+  "ratings": [
+    {
+      "score": 2,
+      "comment": "Review 1 for product 98",
+      "user_id": "4f7b1bd6-a61c-441a-b28e-547a025088cd",
+      "date": {
+        "$date": "2024-07-05T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 2,
+      "comment": "Review 2 for product 98",
+      "user_id": "39398953-db20-4237-ba75-cc43481d7602",
+      "date": {
+        "$date": "2024-12-06T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 98",
+      "user_id": "bdceab33-936b-4ac0-b810-e1859f8feb6c",
+      "date": {
+        "$date": "2025-04-02T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 4 for product 98",
+      "user_id": "7864a484-bcf8-46aa-b3c8-453c29b4fe8b",
+      "date": {
+        "$date": "2025-02-10T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 3,
+      "comment": "Review 5 for product 98",
+      "user_id": "71e156a6-782a-46db-af25-762b73415b57",
+      "date": {
+        "$date": "2024-09-18T07:45:50.172Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "27997f40-c1a6-4703-b73c-e5f28f25cb5a",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-03-22T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "a7d435ea-6cf8-4b89-a6b1-b6f79a955060",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-18T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "645baf65-1e83-4a2f-bd11-255440e9d156",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-02-16T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "e961c221-f338-4a05-90e2-76dbbb20816a",
+      "quantity_sold": 3,
+      "date": {
+        "$date": "2025-03-22T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "908bdeac-f26e-4704-aa15-dbd4782e3a4c",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-09-23T07:45:50.172Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 28,
+      "date": {
+        "$date": "2024-12-10T07:45:50.172Z"
+      }
+    },
+    {
+      "quantity_added": 32,
+      "date": {
+        "$date": "2024-06-07T07:45:50.172Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb36"
+  },
+  "productID": "PROD099",
+  "productName": "Books Product 99",
+  "description": "High-quality product for everyday use.",
+  "price": 295.84,
+  "quantity": 34,
+  "category": "Books",
+  "brand": "TechTrend",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 99",
+      "user_id": "d8675940-fc63-4f58-b649-195f7ac014a2",
+      "date": {
+        "$date": "2024-06-13T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 99",
+      "user_id": "4f873abb-deb2-43f2-8d0d-64dd4cd2f1b8",
+      "date": {
+        "$date": "2025-04-29T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 4,
+      "comment": "Review 3 for product 99",
+      "user_id": "4a6fd819-8267-4661-8199-7008f3356a82",
+      "date": {
+        "$date": "2024-12-20T07:45:50.172Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "949459f2-d31a-4f8c-9e91-9932d8dfec5e",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2024-12-22T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "423aad89-c8dd-4428-b631-1a9a9047c125",
+      "quantity_sold": 7,
+      "date": {
+        "$date": "2024-11-27T07:45:50.172Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 20,
+      "date": {
+        "$date": "2024-07-29T07:45:50.172Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683c052e277df3933ca2cb37"
+  },
+  "productID": "PROD100",
+  "productName": "Books Product 100",
+  "description": "Stylish and functional for all occasions.",
+  "price": 285.38,
+  "quantity": 85,
+  "category": "Books",
+  "brand": "LitLovers",
+  "ratings": [
+    {
+      "score": 4,
+      "comment": "Review 1 for product 100",
+      "user_id": "23ffef5d-d03f-40e6-b7b9-62a7585dbb02",
+      "date": {
+        "$date": "2024-10-26T07:45:50.172Z"
+      }
+    },
+    {
+      "score": 5,
+      "comment": "Review 2 for product 100",
+      "user_id": "8f695fd9-af40-4615-aacf-d911f51d3754",
+      "date": {
+        "$date": "2024-11-08T07:45:50.172Z"
+      }
+    }
+  ],
+  "sales_history": [
+    {
+      "order_id": "8c87e317-fa45-400b-9dad-9567084404ed",
+      "quantity_sold": 10,
+      "date": {
+        "$date": "2025-01-31T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "bcb45860-2982-407f-ac15-54b332b07d99",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2024-11-14T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "1d2a5b83-8789-4eae-bd25-aa0ffcdd9367",
+      "quantity_sold": 4,
+      "date": {
+        "$date": "2025-02-01T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "5d448b61-225f-4110-92d9-abcd5cfd0a6b",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-04-05T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "f11e23a8-c002-450e-846f-541a61505396",
+      "quantity_sold": 8,
+      "date": {
+        "$date": "2025-03-14T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "462dc843-b3cd-43c0-9656-b48a9bdfa93e",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2024-08-28T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "8a61298d-bcca-466c-b86c-4ed3de43237c",
+      "quantity_sold": 6,
+      "date": {
+        "$date": "2025-01-20T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "ae9067a1-993f-4652-a0dd-d2f3989b28f9",
+      "quantity_sold": 1,
+      "date": {
+        "$date": "2025-04-15T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "f163355d-09f7-4d4c-a2e7-346ca5fed636",
+      "quantity_sold": 5,
+      "date": {
+        "$date": "2025-04-05T07:45:50.172Z"
+      }
+    },
+    {
+      "order_id": "ccbdff6e-f0f6-4f7d-9d11-60bbab3c11a7",
+      "quantity_sold": 9,
+      "date": {
+        "$date": "2024-10-06T07:45:50.172Z"
+      }
+    }
+  ],
+  "restock_history": [
+    {
+      "quantity_added": 26,
+      "date": {
+        "$date": "2025-01-18T07:45:50.172Z"
+      }
+    },
+    {
+      "quantity_added": 40,
+      "date": {
+        "$date": "2025-04-26T07:45:50.172Z"
+      }
+    },
+    {
+      "quantity_added": 46,
+      "date": {
+        "$date": "2024-12-13T07:45:50.172Z"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  },
+  "updated_at": {
+    "$date": "2025-06-01T07:45:50.172Z"
+  }
+}]
